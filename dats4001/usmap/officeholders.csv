@@ -1,0 +1,747 @@
+ID,Year,First Name,Middle Name,Last Name,Full Name,party,Level,Position,state,District,race_ethnicity,STATEFP,Congress,GEOID
+283894k,2017,Martha,,Roby,Martha Roby,Republican,Congress,U.S. Representative,Alabama - AL,2,White,1,115,0102
+283894k,2020,Martha,,Roby,Martha Roby,Republican,Congress,U.S. Representative,Alabama - AL,2,White,1,116,0102
+283894k,2019,Martha,,Roby,Martha Roby,Republican,Congress,U.S. Representative,Alabama - AL,2,White,1,116,0102
+283894k,2018,Martha,,Roby,Martha Roby,Republican,Congress,U.S. Representative,Alabama - AL,2,White,1,115,0102
+283908k,2017,Terri,A.,Sewell,Terri Sewell,Democrat,Congress,U.S. Representative,Alabama - AL,7,Black,1,115,0107
+283908k,2020,Terri,A.,Sewell,Terri Sewell,Democrat,Congress,U.S. Representative,Alabama - AL,7,Black,1,116,0107
+283908k,2019,Terri,A.,Sewell,Terri Sewell,Democrat,Congress,U.S. Representative,Alabama - AL,7,Black,1,116,0107
+283908k,2022,Terri,A.,Sewell,Terri Sewell,Democrat,Congress,U.S. Representative,Alabama - AL,7,Black,1,117,0107
+283908k,2018,Terri,A.,Sewell,Terri Sewell,Democrat,Congress,U.S. Representative,Alabama - AL,7,Black,1,115,0107
+283908k,2021,Terri,A.,Sewell,Terri Sewell,Democrat,Congress,U.S. Representative,Alabama - AL,7,Black,1,117,0107
+283908k,2023,Terri,A.,Sewell,Terri Sewell,Democrat,Congress,U.S. Representative,Alabama - AL,7,Black,1,118,0107
+803941k,2022,Mary,,Peltola,Mary Peltola,Democrat,Congress,U.S. Representative,Alaska - AK,0,Native American/Alaska Native/Native Hawaiian,2,117,0200
+803941k,2023,Mary,,Peltola,Mary Peltola,Democrat,Congress,U.S. Representative,Alaska - AK,0,Native American/Alaska Native/Native Hawaiian,2,118,0200
+227470k,2019,Ann,L.,Kirkpatrick,Ann Kirkpatrick,Democrat,Congress,U.S. Representative,Arizona - AZ,2,White,4,116,0402
+227470k,2022,Ann,L.,Kirkpatrick,Ann Kirkpatrick,Democrat,Congress,U.S. Representative,Arizona - AZ,2,White,4,117,0402
+227470k,2021,Ann,L.,Kirkpatrick,Ann Kirkpatrick,Democrat,Congress,U.S. Representative,Arizona - AZ,2,White,4,117,0402
+227470k,2020,Ann,L.,Kirkpatrick,Ann Kirkpatrick,Democrat,Congress,U.S. Representative,Arizona - AZ,2,White,4,116,0402
+267627k,2018,Debbie,,Lesko,Debbie Lesko,Republican,Congress,U.S. Representative,Arizona - AZ,8,White,4,115,0408
+267627k,2021,Debbie,,Lesko,Debbie Lesko,Republican,Congress,U.S. Representative,Arizona - AZ,8,White,4,117,0408
+267627k,2020,Debbie,,Lesko,Debbie Lesko,Republican,Congress,U.S. Representative,Arizona - AZ,8,White,4,116,0408
+267627k,2019,Debbie,,Lesko,Debbie Lesko,Republican,Congress,U.S. Representative,Arizona - AZ,8,White,4,116,0408
+267627k,2022,Debbie,,Lesko,Debbie Lesko,Republican,Congress,U.S. Representative,Arizona - AZ,8,White,4,117,0408
+401802k,2018,Martha,,McSally,Martha McSally,Republican,Congress,U.S. Representative,Arizona - AZ,2,White,4,115,0402
+401802k,2017,Martha,,McSally,Martha McSally,Republican,Congress,U.S. Representative,Arizona - AZ,2,White,4,115,0402
+227495k,2018,Kyrsten,,Sinema,Kyrsten Sinema,Democrat,Congress,U.S. Representative,Arizona - AZ,9,White,4,115,0409
+227495k,2017,Kyrsten,,Sinema,Kyrsten Sinema,Democrat,Congress,U.S. Representative,Arizona - AZ,9,White,4,115,0409
+267627k,2023,Debbie,,Lesko,Debbie Lesko,Republican,Congress,U.S. Representative,Arizona - AZ,8,White,4,118,0408
+226476k,2017,Karen,R.,Bass,Karen Bass,Democrat,Congress,U.S. Representative,California - CA,37,Black,6,115,0637
+226476k,2021,Karen,R.,Bass,Karen Bass,Democrat,Congress,U.S. Representative,California - CA,37,Black,6,117,0637
+226476k,2020,Karen,R.,Bass,Karen Bass,Democrat,Congress,U.S. Representative,California - CA,37,Black,6,116,0637
+226476k,2019,Karen,R.,Bass,Karen Bass,Democrat,Congress,U.S. Representative,California - CA,37,Black,6,116,0637
+226476k,2018,Karen,R.,Bass,Karen Bass,Democrat,Congress,U.S. Representative,California - CA,37,Black,6,115,0637
+226476k,2022,Karen,R.,Bass,Karen Bass,Democrat,Congress,U.S. Representative,California - CA,37,Black,6,117,0637
+248455k,2018,Julia,,Brownley,Julia Brownley,Democrat,Congress,U.S. Representative,California - CA,26,White,6,115,0626
+248455k,2021,Julia,,Brownley,Julia Brownley,Democrat,Congress,U.S. Representative,California - CA,26,White,6,117,0626
+248455k,2017,Julia,,Brownley,Julia Brownley,Democrat,Congress,U.S. Representative,California - CA,26,White,6,115,0626
+248455k,2020,Julia,,Brownley,Julia Brownley,Democrat,Congress,U.S. Representative,California - CA,26,White,6,116,0626
+248455k,2019,Julia,,Brownley,Julia Brownley,Democrat,Congress,U.S. Representative,California - CA,26,White,6,116,0626
+248455k,2022,Julia,,Brownley,Julia Brownley,Democrat,Congress,U.S. Representative,California - CA,26,White,6,117,0626
+209456k,2021,Judy,,Chu,Judy Chu,Democrat,Congress,U.S. Representative,California - CA,27,Asian American/Pacific Islander,6,117,0627
+209456k,2019,Judy,,Chu,Judy Chu,Democrat,Congress,U.S. Representative,California - CA,27,Asian American/Pacific Islander,6,116,0627
+209456k,2020,Judy,,Chu,Judy Chu,Democrat,Congress,U.S. Representative,California - CA,27,Asian American/Pacific Islander,6,116,0627
+209456k,2018,Judy,,Chu,Judy Chu,Democrat,Congress,U.S. Representative,California - CA,27,Asian American/Pacific Islander,6,115,0627
+209456k,2022,Judy,,Chu,Judy Chu,Democrat,Congress,U.S. Representative,California - CA,27,Asian American/Pacific Islander,6,117,0627
+209456k,2017,Judy,,Chu,Judy Chu,Democrat,Congress,U.S. Representative,California - CA,27,Asian American/Pacific Islander,6,115,0627
+267742k,2022,Connie,,Conway,Connie Conway,Republican,Congress,U.S. Representative,California - CA,22,White,6,117,0622
+193104k,2017,Susan,A.,Davis,Susan Davis,Democrat,Congress,U.S. Representative,California - CA,53,White,6,115,0653
+193104k,2020,Susan,A.,Davis,Susan Davis,Democrat,Congress,U.S. Representative,California - CA,53,White,6,116,0653
+193104k,2019,Susan,A.,Davis,Susan Davis,Democrat,Congress,U.S. Representative,California - CA,53,White,6,116,0653
+193104k,2018,Susan,A.,Davis,Susan Davis,Democrat,Congress,U.S. Representative,California - CA,53,White,6,115,0653
+536062k,2022,Nanette,,Diaz Barragan,Nanette Diaz Barragan,Democrat,Congress,U.S. Representative,California - CA,44,Latina,6,117,0644
+536062k,2018,Nanette,,Diaz Barragan,Nanette Diaz Barragan,Democrat,Congress,U.S. Representative,California - CA,44,Latina,6,115,0644
+536062k,2021,Nanette,,Diaz Barragan,Nanette Diaz Barragan,Democrat,Congress,U.S. Representative,California - CA,44,Latina,6,117,0644
+536062k,2017,Nanette,,Diaz Barragan,Nanette Diaz Barragan,Democrat,Congress,U.S. Representative,California - CA,44,Latina,6,115,0644
+536062k,2020,Nanette,,Diaz Barragan,Nanette Diaz Barragan,Democrat,Congress,U.S. Representative,California - CA,44,Latina,6,116,0644
+536062k,2019,Nanette,,Diaz Barragan,Nanette Diaz Barragan,Democrat,Congress,U.S. Representative,California - CA,44,Latina,6,116,0644
+158731k,2019,Anna,G.,Eshoo,Anna Eshoo,Democrat,Congress,U.S. Representative,California - CA,18,White,6,116,0618
+158731k,2022,Anna,G.,Eshoo,Anna Eshoo,Democrat,Congress,U.S. Representative,California - CA,18,White,6,117,0618
+158731k,2018,Anna,G.,Eshoo,Anna Eshoo,Democrat,Congress,U.S. Representative,California - CA,18,White,6,115,0618
+158731k,2021,Anna,G.,Eshoo,Anna Eshoo,Democrat,Congress,U.S. Representative,California - CA,18,White,6,117,0618
+158731k,2017,Anna,G.,Eshoo,Anna Eshoo,Democrat,Congress,U.S. Representative,California - CA,18,White,6,115,0618
+158731k,2020,Anna,G.,Eshoo,Anna Eshoo,Democrat,Congress,U.S. Representative,California - CA,18,White,6,116,0618
+618828k,2019,Katherine,L.,Hill,Katherine Hill,Democrat,Congress,U.S. Representative,California - CA,25,White,6,116,0625
+644085k,2021,Sara,,Jacobs,Sara Jacobs,Democrat,Congress,U.S. Representative,California - CA,53,White,6,117,0653
+644085k,2022,Sara,,Jacobs,Sara Jacobs,Democrat,Congress,U.S. Representative,California - CA,53,White,6,117,0653
+494206k,2022,Young,O.,Kim,Young Kim,Republican,Congress,U.S. Representative,California - CA,39,Asian American/Pacific Islander,6,117,0639
+494206k,2021,Young,O.,Kim,Young Kim,Republican,Congress,U.S. Representative,California - CA,39,Asian American/Pacific Islander,6,117,0639
+158726k,2019,Barbara,J.,Lee,Barbara Lee,Democrat,Congress,U.S. Representative,California - CA,13,Black,6,116,0613
+158726k,2022,Barbara,J.,Lee,Barbara Lee,Democrat,Congress,U.S. Representative,California - CA,13,Black,6,117,0613
+158726k,2018,Barbara,J.,Lee,Barbara Lee,Democrat,Congress,U.S. Representative,California - CA,13,Black,6,115,0613
+158726k,2021,Barbara,J.,Lee,Barbara Lee,Democrat,Congress,U.S. Representative,California - CA,13,Black,6,117,0613
+158726k,2017,Barbara,J.,Lee,Barbara Lee,Democrat,Congress,U.S. Representative,California - CA,13,Black,6,115,0613
+158726k,2020,Barbara,J.,Lee,Barbara Lee,Democrat,Congress,U.S. Representative,California - CA,13,Black,6,116,0613
+158733k,2020,Zoe,,Lofgren,Zoe Lofgren,Democrat,Congress,U.S. Representative,California - CA,19,White,6,116,0619
+158733k,2019,Zoe,,Lofgren,Zoe Lofgren,Democrat,Congress,U.S. Representative,California - CA,19,White,6,116,0619
+158733k,2022,Zoe,,Lofgren,Zoe Lofgren,Democrat,Congress,U.S. Representative,California - CA,19,White,6,117,0619
+158733k,2018,Zoe,,Lofgren,Zoe Lofgren,Democrat,Congress,U.S. Representative,California - CA,19,White,6,115,0619
+158733k,2021,Zoe,,Lofgren,Zoe Lofgren,Democrat,Congress,U.S. Representative,California - CA,19,White,6,117,0619
+158733k,2017,Zoe,,Lofgren,Zoe Lofgren,Democrat,Congress,U.S. Representative,California - CA,19,White,6,115,0619
+232639k,2018,Doris,O.,Matsui,Doris Matsui,Democrat,Congress,U.S. Representative,California - CA,6,Asian American/Pacific Islander,6,115,0606
+232639k,2021,Doris,O.,Matsui,Doris Matsui,Democrat,Congress,U.S. Representative,California - CA,6,Asian American/Pacific Islander,6,117,0606
+232639k,2017,Doris,O.,Matsui,Doris Matsui,Democrat,Congress,U.S. Representative,California - CA,6,Asian American/Pacific Islander,6,115,0606
+232639k,2020,Doris,O.,Matsui,Doris Matsui,Democrat,Congress,U.S. Representative,California - CA,6,Asian American/Pacific Islander,6,116,0606
+232639k,2019,Doris,O.,Matsui,Doris Matsui,Democrat,Congress,U.S. Representative,California - CA,6,Asian American/Pacific Islander,6,116,0606
+232639k,2022,Doris,O.,Matsui,Doris Matsui,Democrat,Congress,U.S. Representative,California - CA,6,Asian American/Pacific Islander,6,117,0606
+158751k,2022,Grace,F.,Napolitano,Grace Napolitano,Democrat,Congress,U.S. Representative,California - CA,32,Latina,6,117,0632
+158751k,2018,Grace,F.,Napolitano,Grace Napolitano,Democrat,Congress,U.S. Representative,California - CA,32,Latina,6,115,0632
+158751k,2021,Grace,F.,Napolitano,Grace Napolitano,Democrat,Congress,U.S. Representative,California - CA,32,Latina,6,117,0632
+158751k,2017,Grace,F.,Napolitano,Grace Napolitano,Democrat,Congress,U.S. Representative,California - CA,32,Latina,6,115,0632
+158751k,2020,Grace,F.,Napolitano,Grace Napolitano,Democrat,Congress,U.S. Representative,California - CA,32,Latina,6,116,0632
+158751k,2019,Grace,F.,Napolitano,Grace Napolitano,Democrat,Congress,U.S. Representative,California - CA,32,Latina,6,116,0632
+158725k,2022,Nancy,,Pelosi,Nancy Pelosi,Democrat,Congress,U.S. Representative,California - CA,12,White,6,117,0612
+158725k,2018,Nancy,,Pelosi,Nancy Pelosi,Democrat,Congress,U.S. Representative,California - CA,12,White,6,115,0612
+158725k,2021,Nancy,,Pelosi,Nancy Pelosi,Democrat,Congress,U.S. Representative,California - CA,12,White,6,117,0612
+158725k,2017,Nancy,,Pelosi,Nancy Pelosi,Democrat,Congress,U.S. Representative,California - CA,12,White,6,115,0612
+158725k,2020,Nancy,,Pelosi,Nancy Pelosi,Democrat,Congress,U.S. Representative,California - CA,12,White,6,116,0612
+158725k,2019,Nancy,,Pelosi,Nancy Pelosi,Democrat,Congress,U.S. Representative,California - CA,12,White,6,116,0612
+621002k,2020,Katherine,,Porter,Katherine Porter,Democrat,Congress,U.S. Representative,California - CA,45,White,6,116,0645
+621002k,2019,Katherine,,Porter,Katherine Porter,Democrat,Congress,U.S. Representative,California - CA,45,White,6,116,0645
+621002k,2022,Katherine,,Porter,Katherine Porter,Democrat,Congress,U.S. Representative,California - CA,45,White,6,117,0645
+621002k,2021,Katherine,,Porter,Katherine Porter,Democrat,Congress,U.S. Representative,California - CA,45,White,6,117,0645
+158750k,2021,Lucille,,Roybal-Allard,Lucille Roybal-Allard,Democrat,Congress,U.S. Representative,California - CA,40,Latina,6,117,0640
+158750k,2017,Lucille,,Roybal-Allard,Lucille Roybal-Allard,Democrat,Congress,U.S. Representative,California - CA,40,Latina,6,115,0640
+158750k,2020,Lucille,,Roybal-Allard,Lucille Roybal-Allard,Democrat,Congress,U.S. Representative,California - CA,40,Latina,6,116,0640
+158750k,2019,Lucille,,Roybal-Allard,Lucille Roybal-Allard,Democrat,Congress,U.S. Representative,California - CA,40,Latina,6,116,0640
+158750k,2022,Lucille,,Roybal-Allard,Lucille Roybal-Allard,Democrat,Congress,U.S. Representative,California - CA,40,Latina,6,117,0640
+158750k,2018,Lucille,,Roybal-Allard,Lucille Roybal-Allard,Democrat,Congress,U.S. Representative,California - CA,40,Latina,6,115,0640
+211684k,2019,Linda,T.,Sanchez,Linda Sanchez,Democrat,Congress,U.S. Representative,California - CA,38,Latina,6,116,0638
+211684k,2022,Linda,T.,Sanchez,Linda Sanchez,Democrat,Congress,U.S. Representative,California - CA,38,Latina,6,117,0638
+211684k,2018,Linda,T.,Sanchez,Linda Sanchez,Democrat,Congress,U.S. Representative,California - CA,38,Latina,6,115,0638
+211684k,2021,Linda,T.,Sanchez,Linda Sanchez,Democrat,Congress,U.S. Representative,California - CA,38,Latina,6,117,0638
+211684k,2017,Linda,T.,Sanchez,Linda Sanchez,Democrat,Congress,U.S. Representative,California - CA,38,Latina,6,115,0638
+211684k,2020,Linda,T.,Sanchez,Linda Sanchez,Democrat,Congress,U.S. Representative,California - CA,38,Latina,6,116,0638
+192997k,2019,Jackie,,Speier,Jackie Speier,Democrat,Congress,U.S. Representative,California - CA,14,White,6,116,0614
+192997k,2022,Jackie,,Speier,Jackie Speier,Democrat,Congress,U.S. Representative,California - CA,14,White,6,117,0614
+192997k,2018,Jackie,,Speier,Jackie Speier,Democrat,Congress,U.S. Representative,California - CA,14,White,6,115,0614
+192997k,2021,Jackie,,Speier,Jackie Speier,Democrat,Congress,U.S. Representative,California - CA,14,White,6,117,0614
+192997k,2017,Jackie,,Speier,Jackie Speier,Democrat,Congress,U.S. Representative,California - CA,14,White,6,115,0614
+192997k,2020,Jackie,,Speier,Jackie Speier,Democrat,Congress,U.S. Representative,California - CA,14,White,6,116,0614
+694474k,2022,Michelle,,Steel,Michelle Steel,Republican,Congress,U.S. Representative,California - CA,48,Asian American/Pacific Islander,6,117,0648
+694474k,2021,Michelle,,Steel,Michelle Steel,Republican,Congress,U.S. Representative,California - CA,48,Asian American/Pacific Islander,6,117,0648
+267783k,2020,Norma,J.,Torres,Norma Torres,Democrat,Congress,U.S. Representative,California - CA,35,Latina,6,116,0635
+267783k,2019,Norma,J.,Torres,Norma Torres,Democrat,Congress,U.S. Representative,California - CA,35,Latina,6,116,0635
+267783k,2022,Norma,J.,Torres,Norma Torres,Democrat,Congress,U.S. Representative,California - CA,35,Latina,6,117,0635
+267783k,2018,Norma,J.,Torres,Norma Torres,Democrat,Congress,U.S. Representative,California - CA,35,Latina,6,115,0635
+267783k,2021,Norma,J.,Torres,Norma Torres,Democrat,Congress,U.S. Representative,California - CA,35,Latina,6,117,0635
+267783k,2017,Norma,J.,Torres,Norma Torres,Democrat,Congress,U.S. Representative,California - CA,35,Latina,6,115,0635
+226571k,2018,Mimi,,Walters,Mimi Walters,Republican,Congress,U.S. Representative,California - CA,45,White,6,115,0645
+226571k,2017,Mimi,,Walters,Mimi Walters,Republican,Congress,U.S. Representative,California - CA,45,White,6,115,0645
+158752k,2017,Maxine,,Waters,Maxine Waters,Democrat,Congress,U.S. Representative,California - CA,43,Black,6,115,0643
+158752k,2020,Maxine,,Waters,Maxine Waters,Democrat,Congress,U.S. Representative,California - CA,43,Black,6,116,0643
+158752k,2019,Maxine,,Waters,Maxine Waters,Democrat,Congress,U.S. Representative,California - CA,43,Black,6,116,0643
+158752k,2022,Maxine,,Waters,Maxine Waters,Democrat,Congress,U.S. Representative,California - CA,43,Black,6,117,0643
+158752k,2018,Maxine,,Waters,Maxine Waters,Democrat,Congress,U.S. Representative,California - CA,43,Black,6,115,0643
+158752k,2021,Maxine,,Waters,Maxine Waters,Democrat,Congress,U.S. Representative,California - CA,43,Black,6,117,0643
+248455k,2023,Julia,,Brownley,Julia Brownley,Democrat,Congress,U.S. Representative,California - CA,26,White,6,118,0626
+209456k,2023,Judy,,Chu,Judy Chu,Democrat,Congress,U.S. Representative,California - CA,28,Asian American/Pacific Islander,6,118,0628
+536062k,2023,Nanette,,Diaz Barragan,Nanette Diaz Barragan,Democrat,Congress,U.S. Representative,California - CA,44,Latina,6,118,0644
+158731k,2023,Anna,G.,Eshoo,Anna Eshoo,Democrat,Congress,U.S. Representative,California - CA,16,White,6,118,0616
+644085k,2023,Sara,,Jacobs,Sara Jacobs,Democrat,Congress,U.S. Representative,California - CA,51,White,6,118,0651
+312779k,2023,Sydney,K.,Kamlager,Sydney Kamlager,Democrat,Congress,U.S. Representative,California - CA,37,Black,6,118,0637
+494206k,2023,Young,O.,Kim,Young Kim,Republican,Congress,U.S. Representative,California - CA,40,Asian American/Pacific Islander,6,118,0640
+158726k,2023,Barbara,J.,Lee,Barbara Lee,Democrat,Congress,U.S. Representative,California - CA,12,Black,6,118,0612
+158733k,2023,Zoe,,Lofgren,Zoe Lofgren,Democrat,Congress,U.S. Representative,California - CA,18,White,6,118,0618
+232639k,2023,Doris,O.,Matsui,Doris Matsui,Democrat,Congress,U.S. Representative,California - CA,7,Asian American/Pacific Islander,6,118,0607
+158751k,2023,Grace,F.,Napolitano,Grace Napolitano,Democrat,Congress,U.S. Representative,California - CA,31,Latina,6,118,0631
+158725k,2023,Nancy,,Pelosi,Nancy Pelosi,Democrat,Congress,U.S. Representative,California - CA,11,White,6,118,0611
+621002k,2023,Katherine,,Porter,Katherine Porter,Democrat,Congress,U.S. Representative,California - CA,47,White,6,118,0647
+211684k,2023,Linda,T.,Sanchez,Linda Sanchez,Democrat,Congress,U.S. Representative,California - CA,38,Latina,6,118,0638
+694474k,2023,Michelle,,Steel,Michelle Steel,Republican,Congress,U.S. Representative,California - CA,45,Asian American/Pacific Islander,6,118,0645
+267783k,2023,Norma,J.,Torres,Norma Torres,Democrat,Congress,U.S. Representative,California - CA,35,Latina,6,118,0635
+158752k,2023,Maxine,,Waters,Maxine Waters,Democrat,Congress,U.S. Representative,California - CA,43,Black,6,118,0643
+724132k,2021,Lauren,,Boebert,Lauren Boebert,Republican,Congress,U.S. Representative,Colorado - CO,3,White,8,117,0803
+724132k,2022,Lauren,,Boebert,Lauren Boebert,Republican,Congress,U.S. Representative,Colorado - CO,3,White,8,117,0803
+158770k,2018,Diana,L.,DeGette,Diana DeGette,Democrat,Congress,U.S. Representative,Colorado - CO,1,White,8,115,0801
+158770k,2021,Diana,L.,DeGette,Diana DeGette,Democrat,Congress,U.S. Representative,Colorado - CO,1,White,8,117,0801
+158770k,2017,Diana,L.,DeGette,Diana DeGette,Democrat,Congress,U.S. Representative,Colorado - CO,1,White,8,115,0801
+158770k,2020,Diana,L.,DeGette,Diana DeGette,Democrat,Congress,U.S. Representative,Colorado - CO,1,White,8,116,0801
+158770k,2019,Diana,L.,DeGette,Diana DeGette,Democrat,Congress,U.S. Representative,Colorado - CO,1,White,8,116,0801
+158770k,2022,Diana,L.,DeGette,Diana DeGette,Democrat,Congress,U.S. Representative,Colorado - CO,1,White,8,117,0801
+724132k,2023,Lauren,,Boebert,Lauren Boebert,Republican,Congress,U.S. Representative,Colorado - CO,3,White,8,118,0803
+651512k,2023,Yadira,,Caraveo,Yadira Caraveo,Democrat,Congress,U.S. Representative,Colorado - CO,8,Latina,8,118,0808
+158770k,2023,Diana,L.,DeGette,Diana DeGette,Democrat,Congress,U.S. Representative,Colorado - CO,1,White,8,118,0801
+408919k,2023,Brittany,L.,Pettersen,Brittany Pettersen,Democrat,Congress,U.S. Representative,Colorado - CO,7,White,8,118,0807
+158778k,2019,Rosa,L.,DeLauro,Rosa DeLauro,Democrat,Congress,U.S. Representative,Connecticut - CT,3,White,9,116,0903
+158778k,2022,Rosa,L.,DeLauro,Rosa DeLauro,Democrat,Congress,U.S. Representative,Connecticut - CT,3,White,9,117,0903
+158778k,2018,Rosa,L.,DeLauro,Rosa DeLauro,Democrat,Congress,U.S. Representative,Connecticut - CT,3,White,9,115,0903
+158778k,2021,Rosa,L.,DeLauro,Rosa DeLauro,Democrat,Congress,U.S. Representative,Connecticut - CT,3,White,9,117,0903
+158778k,2017,Rosa,L.,DeLauro,Rosa DeLauro,Democrat,Congress,U.S. Representative,Connecticut - CT,3,White,9,115,0903
+158778k,2020,Rosa,L.,DeLauro,Rosa DeLauro,Democrat,Congress,U.S. Representative,Connecticut - CT,3,White,9,116,0903
+272156k,2017,Elizabeth,H.,Esty,Elizabeth Esty,Democrat,Congress,U.S. Representative,Connecticut - CT,5,White,9,115,0905
+272156k,2018,Elizabeth,H.,Esty,Elizabeth Esty,Democrat,Congress,U.S. Representative,Connecticut - CT,5,White,9,115,0905
+666101k,2021,Jahana,,Hayes,Jahana Hayes,Democrat,Congress,U.S. Representative,Connecticut - CT,5,Black,9,117,0905
+666101k,2020,Jahana,,Hayes,Jahana Hayes,Democrat,Congress,U.S. Representative,Connecticut - CT,5,Black,9,116,0905
+666101k,2019,Jahana,,Hayes,Jahana Hayes,Democrat,Congress,U.S. Representative,Connecticut - CT,5,Black,9,116,0905
+666101k,2022,Jahana,,Hayes,Jahana Hayes,Democrat,Congress,U.S. Representative,Connecticut - CT,5,Black,9,117,0905
+158778k,2023,Rosa,L.,DeLauro,Rosa DeLauro,Democrat,Congress,U.S. Representative,Connecticut - CT,3,White,9,118,0903
+666101k,2023,Jahana,,Hayes,Jahana Hayes,Democrat,Congress,U.S. Representative,Connecticut - CT,5,Black,9,118,0905
+558891k,2017,Lisa,,Blunt Rochester,Lisa Blunt Rochester,Democrat,Congress,U.S. Representative,Delaware - DE,0,Black,10,115,1000
+558891k,2020,Lisa,,Blunt Rochester,Lisa Blunt Rochester,Democrat,Congress,U.S. Representative,Delaware - DE,0,Black,10,116,1000
+558891k,2019,Lisa,,Blunt Rochester,Lisa Blunt Rochester,Democrat,Congress,U.S. Representative,Delaware - DE,0,Black,10,116,1000
+558891k,2022,Lisa,,Blunt Rochester,Lisa Blunt Rochester,Democrat,Congress,U.S. Representative,Delaware - DE,0,Black,10,117,1000
+558891k,2018,Lisa,,Blunt Rochester,Lisa Blunt Rochester,Democrat,Congress,U.S. Representative,Delaware - DE,0,Black,10,115,1000
+558891k,2021,Lisa,,Blunt Rochester,Lisa Blunt Rochester,Democrat,Congress,U.S. Representative,Delaware - DE,0,Black,10,117,1000
+558891k,2023,Lisa,,Blunt Rochester,Lisa Blunt Rochester,Democrat,Congress,U.S. Representative,Delaware - DE,0,Black,10,118,1000
+447426k,2021,Kat,,Cammack,Kat Cammack,Republican,Congress,U.S. Representative,Florida - FL,3,White,12,117,1203
+447426k,2022,Kat,,Cammack,Kat Cammack,Republican,Congress,U.S. Representative,Florida - FL,3,White,12,117,1203
+248289k,2021,Kathy,A.,Castor,Kathy Castor,Democrat,Congress,U.S. Representative,Florida - FL,14,White,12,117,1214
+248289k,2017,Kathy,A.,Castor,Kathy Castor,Democrat,Congress,U.S. Representative,Florida - FL,14,White,12,115,1214
+248289k,2020,Kathy,A.,Castor,Kathy Castor,Democrat,Congress,U.S. Representative,Florida - FL,14,White,12,116,1214
+248289k,2019,Kathy,A.,Castor,Kathy Castor,Democrat,Congress,U.S. Representative,Florida - FL,14,White,12,116,1214
+248289k,2022,Kathy,A.,Castor,Kathy Castor,Democrat,Congress,U.S. Representative,Florida - FL,14,White,12,117,1214
+248289k,2018,Kathy,A.,Castor,Kathy Castor,Democrat,Congress,U.S. Representative,Florida - FL,14,White,12,115,1214
+665191k,2022,Sheila,,Cherfilus-McCormick,Sheila Cherfilus-McCormick,Democrat,Congress,U.S. Representative,Florida - FL,20,Black,12,117,1220
+378538k,2017,Val,B.,Demings,Val Demings,Democrat,Congress,U.S. Representative,Florida - FL,10,Black,12,115,1210
+378538k,2020,Val,B.,Demings,Val Demings,Democrat,Congress,U.S. Representative,Florida - FL,10,Black,12,116,1210
+378538k,2019,Val,B.,Demings,Val Demings,Democrat,Congress,U.S. Representative,Florida - FL,10,Black,12,116,1210
+378538k,2022,Val,B.,Demings,Val Demings,Democrat,Congress,U.S. Representative,Florida - FL,10,Black,12,117,1210
+378538k,2018,Val,B.,Demings,Val Demings,Democrat,Congress,U.S. Representative,Florida - FL,10,Black,12,115,1210
+378538k,2021,Val,B.,Demings,Val Demings,Democrat,Congress,U.S. Representative,Florida - FL,10,Black,12,117,1210
+193594k,2017,Lois,J.,Frankel,Lois Frankel,Democrat,Congress,U.S. Representative,Florida - FL,21,White,12,115,1221
+193594k,2020,Lois,J.,Frankel,Lois Frankel,Democrat,Congress,U.S. Representative,Florida - FL,21,White,12,116,1221
+193594k,2019,Lois,J.,Frankel,Lois Frankel,Democrat,Congress,U.S. Representative,Florida - FL,21,White,12,116,1221
+193594k,2022,Lois,J.,Frankel,Lois Frankel,Democrat,Congress,U.S. Representative,Florida - FL,21,White,12,117,1221
+193594k,2018,Lois,J.,Frankel,Lois Frankel,Democrat,Congress,U.S. Representative,Florida - FL,21,White,12,115,1221
+193594k,2021,Lois,J.,Frankel,Lois Frankel,Democrat,Congress,U.S. Representative,Florida - FL,21,White,12,117,1221
+588900k,2019,Debbie,,Mucarsel-Powell,Debbie Mucarsel-Powell,Democrat,Congress,U.S. Representative,Florida - FL,26,Latina,12,116,1226
+588900k,2020,Debbie,,Mucarsel-Powell,Debbie Mucarsel-Powell,Democrat,Congress,U.S. Representative,Florida - FL,26,Latina,12,116,1226
+588810k,2020,Stephanie,,Murphy,Stephanie Murphy,Democrat,Congress,U.S. Representative,Florida - FL,7,Asian American/Pacific Islander,12,116,1207
+588810k,2017,Stephanie,,Murphy,Stephanie Murphy,Democrat,Congress,U.S. Representative,Florida - FL,7,Asian American/Pacific Islander,12,115,1207
+588810k,2022,Stephanie,,Murphy,Stephanie Murphy,Democrat,Congress,U.S. Representative,Florida - FL,7,Asian American/Pacific Islander,12,117,1207
+588810k,2019,Stephanie,,Murphy,Stephanie Murphy,Democrat,Congress,U.S. Representative,Florida - FL,7,Asian American/Pacific Islander,12,116,1207
+588810k,2021,Stephanie,,Murphy,Stephanie Murphy,Democrat,Congress,U.S. Representative,Florida - FL,7,Asian American/Pacific Islander,12,117,1207
+588810k,2018,Stephanie,,Murphy,Stephanie Murphy,Democrat,Congress,U.S. Representative,Florida - FL,7,Asian American/Pacific Islander,12,115,1207
+158801k,2018,Ileana,C.,Ros-Lehtinen,Ileana Ros-Lehtinen,Republican,Congress,U.S. Representative,Florida - FL,27,Latina,12,115,1227
+158801k,2017,Ileana,C.,Ros-Lehtinen,Ileana Ros-Lehtinen,Republican,Congress,U.S. Representative,Florida - FL,27,Latina,12,115,1227
+658161k,2022,Maria,,Salazar,Maria Salazar,Republican,Congress,U.S. Representative,Florida - FL,27,Latina,12,117,1227
+658161k,2021,Maria,,Salazar,Maria Salazar,Republican,Congress,U.S. Representative,Florida - FL,27,Latina,12,117,1227
+658165k,2020,Donna,,Shalala,Donna Shalala,Democrat,Congress,U.S. Representative,Florida - FL,27,Middle Eastern/North African,12,116,1227
+658165k,2019,Donna,,Shalala,Donna Shalala,Democrat,Congress,U.S. Representative,Florida - FL,27,Middle Eastern/North African,12,116,1227
+226499k,2019,Debbie,,Wasserman Schultz,Debbie Wasserman Schultz,Democrat,Congress,U.S. Representative,Florida - FL,23,White,12,116,1223
+226499k,2022,Debbie,,Wasserman Schultz,Debbie Wasserman Schultz,Democrat,Congress,U.S. Representative,Florida - FL,23,White,12,117,1223
+226499k,2018,Debbie,,Wasserman Schultz,Debbie Wasserman Schultz,Democrat,Congress,U.S. Representative,Florida - FL,23,White,12,115,1223
+226499k,2021,Debbie,,Wasserman Schultz,Debbie Wasserman Schultz,Democrat,Congress,U.S. Representative,Florida - FL,23,White,12,117,1223
+226499k,2017,Debbie,,Wasserman Schultz,Debbie Wasserman Schultz,Democrat,Congress,U.S. Representative,Florida - FL,23,White,12,115,1223
+226499k,2020,Debbie,,Wasserman Schultz,Debbie Wasserman Schultz,Democrat,Congress,U.S. Representative,Florida - FL,23,White,12,116,1223
+211856k,2018,Frederica,S.,Wilson,Frederica Wilson,Democrat,Congress,U.S. Representative,Florida - FL,24,Black,12,115,1224
+211856k,2021,Frederica,S.,Wilson,Frederica Wilson,Democrat,Congress,U.S. Representative,Florida - FL,24,Black,12,117,1224
+211856k,2017,Frederica,S.,Wilson,Frederica Wilson,Democrat,Congress,U.S. Representative,Florida - FL,24,Black,12,115,1224
+211856k,2020,Frederica,S.,Wilson,Frederica Wilson,Democrat,Congress,U.S. Representative,Florida - FL,24,Black,12,116,1224
+211856k,2019,Frederica,S.,Wilson,Frederica Wilson,Democrat,Congress,U.S. Representative,Florida - FL,24,Black,12,116,1224
+211856k,2022,Frederica,S.,Wilson,Frederica Wilson,Democrat,Congress,U.S. Representative,Florida - FL,24,Black,12,117,1224
+447426k,2023,Kat,,Cammack,Kat Cammack,Republican,Congress,U.S. Representative,Florida - FL,3,White,12,118,1203
+248289k,2023,Kathy,A.,Castor,Kathy Castor,Democrat,Congress,U.S. Representative,Florida - FL,14,White,12,118,1214
+665191k,2023,Sheila,,Cherfilus-McCormick,Sheila Cherfilus-McCormick,Democrat,Congress,U.S. Representative,Florida - FL,20,Black,12,118,1220
+193594k,2023,Lois,J.,Frankel,Lois Frankel,Democrat,Congress,U.S. Representative,Florida - FL,22,White,12,118,1222
+695573k,2023,Laurel,,Lee,Laurel Lee,Republican,Congress,U.S. Representative,Florida - FL,15,White,12,118,1215
+716944k,2023,Anna,Paulina,Luna,Anna Luna,Republican,Congress,U.S. Representative,Florida - FL,13,"White, Latina",12,118,1213
+658161k,2023,Maria,,Salazar,Maria Salazar,Republican,Congress,U.S. Representative,Florida - FL,27,Latina,12,118,1227
+226499k,2023,Debbie,,Wasserman Schultz,Debbie Wasserman Schultz,Democrat,Congress,U.S. Representative,Florida - FL,25,White,12,118,1225
+211856k,2023,Frederica,S.,Wilson,Frederica Wilson,Democrat,Congress,U.S. Representative,Florida - FL,24,Black,12,118,1224
+629889k,2022,Carolyn,,Bourdeaux,Carolyn Bourdeaux,Democrat,Congress,U.S. Representative,Georgia - GA,7,White,13,117,1307
+629889k,2021,Carolyn,,Bourdeaux,Carolyn Bourdeaux,Democrat,Congress,U.S. Representative,Georgia - GA,7,White,13,117,1307
+707878k,2022,Marjorie,,Greene,Marjorie Greene,Republican,Congress,U.S. Representative,Georgia - GA,14,White,13,117,1314
+707878k,2021,Marjorie,,Greene,Marjorie Greene,Republican,Congress,U.S. Representative,Georgia - GA,14,White,13,117,1314
+251780k,2017,Karen,C.,Handel,Karen Handel,Republican,Congress,U.S. Representative,Georgia - GA,6,White,13,115,1306
+251780k,2018,Karen,C.,Handel,Karen Handel,Republican,Congress,U.S. Representative,Georgia - GA,6,White,13,115,1306
+658185k,2020,Lucy,,McBath,Lucy McBath,Democrat,Congress,U.S. Representative,Georgia - GA,6,Black,13,116,1306
+658185k,2019,Lucy,,McBath,Lucy McBath,Democrat,Congress,U.S. Representative,Georgia - GA,6,Black,13,116,1306
+658185k,2022,Lucy,,McBath,Lucy McBath,Democrat,Congress,U.S. Representative,Georgia - GA,6,Black,13,117,1306
+658185k,2021,Lucy,,McBath,Lucy McBath,Democrat,Congress,U.S. Representative,Georgia - GA,6,Black,13,117,1306
+648743k,2022,Nikema,,Williams,Nikema Williams,Democrat,Congress,U.S. Representative,Georgia - GA,5,Black,13,117,1305
+648743k,2021,Nikema,,Williams,Nikema Williams,Democrat,Congress,U.S. Representative,Georgia - GA,5,Black,13,117,1305
+707878k,2023,Marjorie,,Greene,Marjorie Greene,Republican,Congress,U.S. Representative,Georgia - GA,14,White,13,118,1314
+658185k,2023,Lucy,,McBath,Lucy McBath,Democrat,Congress,U.S. Representative,Georgia - GA,7,Black,13,118,1307
+648743k,2023,Nikema,,Williams,Nikema Williams,Democrat,Congress,U.S. Representative,Georgia - GA,5,Black,13,118,1305
+378573k,2017,Tulsi,,Gabbard,Tulsi Gabbard,Democrat,Congress,U.S. Representative,Hawaii - HI,2,Asian American/Pacific Islander,15,115,1502
+378573k,2020,Tulsi,,Gabbard,Tulsi Gabbard,Democrat,Congress,U.S. Representative,Hawaii - HI,2,Asian American/Pacific Islander,15,116,1502
+378573k,2019,Tulsi,,Gabbard,Tulsi Gabbard,Democrat,Congress,U.S. Representative,Hawaii - HI,2,Asian American/Pacific Islander,15,116,1502
+378573k,2018,Tulsi,,Gabbard,Tulsi Gabbard,Democrat,Congress,U.S. Representative,Hawaii - HI,2,Asian American/Pacific Islander,15,115,1502
+193912k,2018,Colleen,W.,Hanabusa,Colleen Hanabusa,Democrat,Congress,U.S. Representative,Hawaii - HI,1,Asian American/Pacific Islander,15,115,1501
+193912k,2017,Colleen,W.,Hanabusa,Colleen Hanabusa,Democrat,Congress,U.S. Representative,Hawaii - HI,1,Asian American/Pacific Islander,15,115,1501
+249235k,2023,Jill,N.,Tokuda,Jill Tokuda,Democrat,Congress,U.S. Representative,Hawaii - HI,2,Asian American/Pacific Islander,15,118,1502
+378493k,2019,Cheri,L.,Bustos,Cheri Bustos,Democrat,Congress,U.S. Representative,Illinois - IL,17,White,17,116,1717
+378493k,2022,Cheri,L.,Bustos,Cheri Bustos,Democrat,Congress,U.S. Representative,Illinois - IL,17,White,17,117,1717
+378493k,2018,Cheri,L.,Bustos,Cheri Bustos,Democrat,Congress,U.S. Representative,Illinois - IL,17,White,17,115,1717
+378493k,2021,Cheri,L.,Bustos,Cheri Bustos,Democrat,Congress,U.S. Representative,Illinois - IL,17,White,17,117,1717
+378493k,2017,Cheri,L.,Bustos,Cheri Bustos,Democrat,Congress,U.S. Representative,Illinois - IL,17,White,17,115,1717
+378493k,2020,Cheri,L.,Bustos,Cheri Bustos,Democrat,Congress,U.S. Representative,Illinois - IL,17,White,17,116,1717
+212680k,2017,Robin,L.,Kelly,Robin Kelly,Democrat,Congress,U.S. Representative,Illinois - IL,2,Black,17,115,1702
+212680k,2020,Robin,L.,Kelly,Robin Kelly,Democrat,Congress,U.S. Representative,Illinois - IL,2,Black,17,116,1702
+212680k,2019,Robin,L.,Kelly,Robin Kelly,Democrat,Congress,U.S. Representative,Illinois - IL,2,Black,17,116,1702
+212680k,2022,Robin,L.,Kelly,Robin Kelly,Democrat,Congress,U.S. Representative,Illinois - IL,2,Black,17,117,1702
+212680k,2018,Robin,L.,Kelly,Robin Kelly,Democrat,Congress,U.S. Representative,Illinois - IL,2,Black,17,115,1702
+212680k,2021,Robin,L.,Kelly,Robin Kelly,Democrat,Congress,U.S. Representative,Illinois - IL,2,Black,17,117,1702
+721413k,2021,Mary,,Miller,Mary Miller,Republican,Congress,U.S. Representative,Illinois - IL,15,White,17,117,1715
+721413k,2022,Mary,,Miller,Mary Miller,Republican,Congress,U.S. Representative,Illinois - IL,15,White,17,117,1715
+619144k,2022,Marie,,Newman,Marie Newman,Democrat,Congress,U.S. Representative,Illinois - IL,3,White,17,117,1703
+619144k,2021,Marie,,Newman,Marie Newman,Democrat,Congress,U.S. Representative,Illinois - IL,3,White,17,117,1703
+158836k,2017,Jan,D.,Schakowsky,Jan Schakowsky,Democrat,Congress,U.S. Representative,Illinois - IL,9,White,17,115,1709
+158836k,2020,Jan,D.,Schakowsky,Jan Schakowsky,Democrat,Congress,U.S. Representative,Illinois - IL,9,White,17,116,1709
+158836k,2019,Jan,D.,Schakowsky,Jan Schakowsky,Democrat,Congress,U.S. Representative,Illinois - IL,9,White,17,116,1709
+158836k,2022,Jan,D.,Schakowsky,Jan Schakowsky,Democrat,Congress,U.S. Representative,Illinois - IL,9,White,17,117,1709
+158836k,2018,Jan,D.,Schakowsky,Jan Schakowsky,Democrat,Congress,U.S. Representative,Illinois - IL,9,White,17,115,1709
+158836k,2021,Jan,D.,Schakowsky,Jan Schakowsky,Democrat,Congress,U.S. Representative,Illinois - IL,9,White,17,117,1709
+601601k,2022,Lauren,A.,Underwood,Lauren Underwood,Democrat,Congress,U.S. Representative,Illinois - IL,14,Black,17,117,1714
+601601k,2021,Lauren,A.,Underwood,Lauren Underwood,Democrat,Congress,U.S. Representative,Illinois - IL,14,Black,17,117,1714
+601601k,2020,Lauren,A.,Underwood,Lauren Underwood,Democrat,Congress,U.S. Representative,Illinois - IL,14,Black,17,116,1714
+601601k,2019,Lauren,A.,Underwood,Lauren Underwood,Democrat,Congress,U.S. Representative,Illinois - IL,14,Black,17,116,1714
+693907k,2023,Nikki,,Budzinkski,Nikki Budzinkski,Democrat,Congress,U.S. Representative,Illinois - IL,13,White,17,118,1713
+212680k,2023,Robin,L.,Kelly,Robin Kelly,Democrat,Congress,U.S. Representative,Illinois - IL,2,Black,17,118,1702
+721413k,2023,Mary,,Miller,Mary Miller,Republican,Congress,U.S. Representative,Illinois - IL,15,White,17,118,1715
+645441k,2023,Delia,C.,Ramirez,Delia Ramirez,Democrat,Congress,U.S. Representative,Illinois - IL,3,Latina,17,118,1703
+158836k,2023,Jan,D.,Schakowsky,Jan Schakowsky,Democrat,Congress,U.S. Representative,Illinois - IL,9,White,17,118,1709
+601601k,2023,Lauren,A.,Underwood,Lauren Underwood,Democrat,Congress,U.S. Representative,Illinois - IL,14,Black,17,118,1714
+378487k,2017,Susan,W.,Brooks,Susan Brooks,Republican,Congress,U.S. Representative,Indiana - IN,5,White,18,115,1805
+378487k,2020,Susan,W.,Brooks,Susan Brooks,Republican,Congress,U.S. Representative,Indiana - IN,5,White,18,116,1805
+378487k,2019,Susan,W.,Brooks,Susan Brooks,Republican,Congress,U.S. Representative,Indiana - IN,5,White,18,116,1805
+378487k,2018,Susan,W.,Brooks,Susan Brooks,Republican,Congress,U.S. Representative,Indiana - IN,5,White,18,115,1805
+638877k,2022,Victoria,,Spartz,Victoria Spartz,Republican,Congress,U.S. Representative,Indiana - IN,5,White,18,117,1805
+638877k,2021,Victoria,,Spartz,Victoria Spartz,Republican,Congress,U.S. Representative,Indiana - IN,5,White,18,117,1805
+227370k,2019,Jackie,Swihart,Walorski,Jackie Walorski,Republican,Congress,U.S. Representative,Indiana - IN,2,White,18,116,1802
+227370k,2022,Jackie,Swihart,Walorski,Jackie Walorski,Republican,Congress,U.S. Representative,Indiana - IN,2,White,18,117,1802
+227370k,2018,Jackie,Swihart,Walorski,Jackie Walorski,Republican,Congress,U.S. Representative,Indiana - IN,2,White,18,115,1802
+227370k,2021,Jackie,Swihart,Walorski,Jackie Walorski,Republican,Congress,U.S. Representative,Indiana - IN,2,White,18,117,1802
+227370k,2017,Jackie,Swihart,Walorski,Jackie Walorski,Republican,Congress,U.S. Representative,Indiana - IN,2,White,18,115,1802
+227370k,2020,Jackie,Swihart,Walorski,Jackie Walorski,Republican,Congress,U.S. Representative,Indiana - IN,2,White,18,116,1802
+344439k,2023,Erin,,Houchin,Erin Houchin,Republican,Congress,U.S. Representative,Indiana - IN,9,White,18,118,1809
+638877k,2023,Victoria,,Spartz,Victoria Spartz,Republican,Congress,U.S. Representative,Indiana - IN,5,White,18,118,1805
+627442k,2021,Cindy,,Axne,Cindy Axne,Democrat,Congress,U.S. Representative,Iowa - IA,3,White,19,117,1903
+627442k,2020,Cindy,,Axne,Cindy Axne,Democrat,Congress,U.S. Representative,Iowa - IA,3,White,19,116,1903
+627442k,2019,Cindy,,Axne,Cindy Axne,Democrat,Congress,U.S. Representative,Iowa - IA,3,White,19,116,1903
+627442k,2022,Cindy,,Axne,Cindy Axne,Democrat,Congress,U.S. Representative,Iowa - IA,3,White,19,117,1903
+491276k,2020,Abby,,Finkenauer,Abby Finkenauer,Democrat,Congress,U.S. Representative,Iowa - IA,1,White,19,116,1901
+491276k,2019,Abby,,Finkenauer,Abby Finkenauer,Democrat,Congress,U.S. Representative,Iowa - IA,1,White,19,116,1901
+572935k,2022,Ashley,,Hinson,Ashley Hinson,Republican,Congress,U.S. Representative,Iowa - IA,1,White,19,117,1901
+572935k,2021,Ashley,,Hinson,Ashley Hinson,Republican,Congress,U.S. Representative,Iowa - IA,1,White,19,117,1901
+267080k,2022,Mariannette,,Miller-Meeks,Mariannette Miller-Meeks,Republican,Congress,U.S. Representative,Iowa - IA,2,White,19,117,1902
+267080k,2021,Mariannette,,Miller-Meeks,Mariannette Miller-Meeks,Republican,Congress,U.S. Representative,Iowa - IA,2,White,19,117,1902
+572935k,2023,Ashley,,Hinson,Ashley Hinson,Republican,Congress,U.S. Representative,Iowa - IA,2,White,19,118,1902
+267080k,2023,Mariannette,,Miller-Meeks,Mariannette Miller-Meeks,Republican,Congress,U.S. Representative,Iowa - IA,1,White,19,118,1901
+655850k,2021,Sharice,,Davids,Sharice Davids,Democrat,Congress,U.S. Representative,Kansas - KS,3,Native American/Alaska Native/Native Hawaiian,20,117,2003
+655850k,2020,Sharice,,Davids,Sharice Davids,Democrat,Congress,U.S. Representative,Kansas - KS,3,Native American/Alaska Native/Native Hawaiian,20,116,2003
+655850k,2019,Sharice,,Davids,Sharice Davids,Democrat,Congress,U.S. Representative,Kansas - KS,3,Native American/Alaska Native/Native Hawaiian,20,116,2003
+655850k,2022,Sharice,,Davids,Sharice Davids,Democrat,Congress,U.S. Representative,Kansas - KS,3,Native American/Alaska Native/Native Hawaiian,20,117,2003
+208581k,2018,Lynn,M.,Jenkins,Lynn Jenkins,Republican,Congress,U.S. Representative,Kansas - KS,2,White,20,115,2002
+208581k,2017,Lynn,M.,Jenkins,Lynn Jenkins,Republican,Congress,U.S. Representative,Kansas - KS,2,White,20,115,2002
+655850k,2023,Sharice,,Davids,Sharice Davids,Democrat,Congress,U.S. Representative,Kansas - KS,3,Native American/Alaska Native/Native Hawaiian,20,118,2003
+768497k,2022,Julia,,Letlow,Julia Letlow,Republican,Congress,U.S. Representative,Louisiana - LA,5,White,22,117,2205
+768497k,2021,Julia,,Letlow,Julia Letlow,Republican,Congress,U.S. Representative,Louisiana - LA,5,White,22,117,2205
+768497k,2023,Julia,,Letlow,Julia Letlow,Republican,Congress,U.S. Representative,Louisiana - LA,5,White,22,118,2205
+267137k,2019,Chellie,M.,Pingree,Chellie Pingree,Democrat,Congress,U.S. Representative,Maine - ME,1,White,23,116,2301
+267137k,2022,Chellie,M.,Pingree,Chellie Pingree,Democrat,Congress,U.S. Representative,Maine - ME,1,White,23,117,2301
+267137k,2018,Chellie,M.,Pingree,Chellie Pingree,Democrat,Congress,U.S. Representative,Maine - ME,1,White,23,115,2301
+267137k,2021,Chellie,M.,Pingree,Chellie Pingree,Democrat,Congress,U.S. Representative,Maine - ME,1,White,23,117,2301
+267137k,2017,Chellie,M.,Pingree,Chellie Pingree,Democrat,Congress,U.S. Representative,Maine - ME,1,White,23,115,2301
+267137k,2020,Chellie,M.,Pingree,Chellie Pingree,Democrat,Congress,U.S. Representative,Maine - ME,1,White,23,116,2301
+267137k,2023,Chellie,M.,Pingree,Chellie Pingree,Democrat,Congress,U.S. Representative,Maine - ME,1,White,23,118,2301
+263010k,2019,Katherine,M.,Clark,Katherine Clark,Democrat,Congress,U.S. Representative,Massachusetts - MA,5,White,25,116,2505
+263010k,2022,Katherine,M.,Clark,Katherine Clark,Democrat,Congress,U.S. Representative,Massachusetts - MA,5,White,25,117,2505
+263010k,2018,Katherine,M.,Clark,Katherine Clark,Democrat,Congress,U.S. Representative,Massachusetts - MA,5,White,25,115,2505
+263010k,2021,Katherine,M.,Clark,Katherine Clark,Democrat,Congress,U.S. Representative,Massachusetts - MA,5,White,25,117,2505
+263010k,2017,Katherine,M.,Clark,Katherine Clark,Democrat,Congress,U.S. Representative,Massachusetts - MA,5,White,25,115,2505
+263010k,2020,Katherine,M.,Clark,Katherine Clark,Democrat,Congress,U.S. Representative,Massachusetts - MA,5,White,25,116,2505
+234321k,2020,Ayanna,,Pressley,Ayanna Pressley,Democrat,Congress,U.S. Representative,Massachusetts - MA,7,Black,25,116,2507
+234321k,2019,Ayanna,,Pressley,Ayanna Pressley,Democrat,Congress,U.S. Representative,Massachusetts - MA,7,Black,25,116,2507
+234321k,2022,Ayanna,,Pressley,Ayanna Pressley,Democrat,Congress,U.S. Representative,Massachusetts - MA,7,Black,25,117,2507
+234321k,2021,Ayanna,,Pressley,Ayanna Pressley,Democrat,Congress,U.S. Representative,Massachusetts - MA,7,Black,25,117,2507
+636951k,2019,Lori,,Trahan,Lori Trahan,Democrat,Congress,U.S. Representative,Massachusetts - MA,3,White,25,116,2503
+636951k,2022,Lori,,Trahan,Lori Trahan,Democrat,Congress,U.S. Representative,Massachusetts - MA,3,White,25,117,2503
+636951k,2021,Lori,,Trahan,Lori Trahan,Democrat,Congress,U.S. Representative,Massachusetts - MA,3,White,25,117,2503
+636951k,2020,Lori,,Trahan,Lori Trahan,Democrat,Congress,U.S. Representative,Massachusetts - MA,3,White,25,116,2503
+259708k,2018,Niki,S.,Tsongas,Niki Tsongas,Democrat,Congress,U.S. Representative,Massachusetts - MA,3,White,25,115,2503
+259708k,2017,Niki,S.,Tsongas,Niki Tsongas,Democrat,Congress,U.S. Representative,Massachusetts - MA,3,White,25,115,2503
+263010k,2023,Katherine,M.,Clark,Katherine Clark,Democrat,Congress,U.S. Representative,Massachusetts - MA,5,White,25,118,2505
+234321k,2023,Ayanna,,Pressley,Ayanna Pressley,Democrat,Congress,U.S. Representative,Massachusetts - MA,7,Black,25,118,2507
+636951k,2023,Lori,,Trahan,Lori Trahan,Democrat,Congress,U.S. Representative,Massachusetts - MA,3,White,25,118,2503
+357079k,2017,Debbie,,Dingell,Debbie Dingell,Democrat,Congress,U.S. Representative,Michigan - MI,12,White,26,115,2612
+357079k,2020,Debbie,,Dingell,Debbie Dingell,Democrat,Congress,U.S. Representative,Michigan - MI,12,White,26,116,2612
+357079k,2019,Debbie,,Dingell,Debbie Dingell,Democrat,Congress,U.S. Representative,Michigan - MI,12,White,26,116,2612
+357079k,2022,Debbie,,Dingell,Debbie Dingell,Democrat,Congress,U.S. Representative,Michigan - MI,12,White,26,117,2612
+357079k,2018,Debbie,,Dingell,Debbie Dingell,Democrat,Congress,U.S. Representative,Michigan - MI,12,White,26,115,2612
+357079k,2021,Debbie,,Dingell,Debbie Dingell,Democrat,Congress,U.S. Representative,Michigan - MI,12,White,26,117,2612
+654228k,2018,Brenda,,Jones,Brenda Jones,Democrat,Congress,U.S. Representative,Michigan - MI,13,Black,26,115,2613
+391655k,2017,Brenda,L.,Lawrence,Brenda Lawrence,Democrat,Congress,U.S. Representative,Michigan - MI,14,Black,26,115,2614
+391655k,2020,Brenda,L.,Lawrence,Brenda Lawrence,Democrat,Congress,U.S. Representative,Michigan - MI,14,Black,26,116,2614
+391655k,2019,Brenda,L.,Lawrence,Brenda Lawrence,Democrat,Congress,U.S. Representative,Michigan - MI,14,Black,26,116,2614
+391655k,2022,Brenda,L.,Lawrence,Brenda Lawrence,Democrat,Congress,U.S. Representative,Michigan - MI,14,Black,26,117,2614
+391655k,2018,Brenda,L.,Lawrence,Brenda Lawrence,Democrat,Congress,U.S. Representative,Michigan - MI,14,Black,26,115,2614
+391655k,2021,Brenda,L.,Lawrence,Brenda Lawrence,Democrat,Congress,U.S. Representative,Michigan - MI,14,Black,26,117,2614
+721727k,2022,Lisa,,McClain,Lisa McClain,Republican,Congress,U.S. Representative,Michigan - MI,10,White,26,117,2610
+721727k,2021,Lisa,,McClain,Lisa McClain,Republican,Congress,U.S. Representative,Michigan - MI,10,White,26,117,2610
+261745k,2021,Elissa,,Slotkin,Elissa Slotkin,Democrat,Congress,U.S. Representative,Michigan - MI,8,White,26,117,2608
+261745k,2020,Elissa,,Slotkin,Elissa Slotkin,Democrat,Congress,U.S. Representative,Michigan - MI,8,White,26,116,2608
+261745k,2019,Elissa,,Slotkin,Elissa Slotkin,Democrat,Congress,U.S. Representative,Michigan - MI,8,White,26,116,2608
+261745k,2022,Elissa,,Slotkin,Elissa Slotkin,Democrat,Congress,U.S. Representative,Michigan - MI,8,White,26,117,2608
+623571k,2019,Haley,,Stevens,Haley Stevens,Democrat,Congress,U.S. Representative,Michigan - MI,11,White,26,116,2611
+623571k,2022,Haley,,Stevens,Haley Stevens,Democrat,Congress,U.S. Representative,Michigan - MI,11,White,26,117,2611
+623571k,2021,Haley,,Stevens,Haley Stevens,Democrat,Congress,U.S. Representative,Michigan - MI,11,White,26,117,2611
+623571k,2020,Haley,,Stevens,Haley Stevens,Democrat,Congress,U.S. Representative,Michigan - MI,11,White,26,116,2611
+268236k,2021,Rashida,,Tlaib,Rashida Tlaib,Democrat,Congress,U.S. Representative,Michigan - MI,13,Middle Eastern/North African,26,117,2613
+268236k,2020,Rashida,,Tlaib,Rashida Tlaib,Democrat,Congress,U.S. Representative,Michigan - MI,13,Middle Eastern/North African,26,116,2613
+268236k,2019,Rashida,,Tlaib,Rashida Tlaib,Democrat,Congress,U.S. Representative,Michigan - MI,13,Middle Eastern/North African,26,116,2613
+268236k,2022,Rashida,,Tlaib,Rashida Tlaib,Democrat,Congress,U.S. Representative,Michigan - MI,13,Middle Eastern/North African,26,117,2613
+357079k,2023,Debbie,,Dingell,Debbie Dingell,Democrat,Congress,U.S. Representative,Michigan - MI,6,White,26,118,2606
+721727k,2023,Lisa,,McClain,Lisa McClain,Republican,Congress,U.S. Representative,Michigan - MI,9,White,26,118,2609
+711580k,2023,Hillary,,Scholten,Hillary Scholten,Democrat,Congress,U.S. Representative,Michigan - MI,3,White,26,118,2603
+261745k,2023,Elissa,,Slotkin,Elissa Slotkin,Democrat,Congress,U.S. Representative,Michigan - MI,7,White,26,118,2607
+623571k,2023,Haley,,Stevens,Haley Stevens,Democrat,Congress,U.S. Representative,Michigan - MI,11,White,26,118,2611
+268236k,2023,Rashida,,Tlaib,Rashida Tlaib,Democrat,Congress,U.S. Representative,Michigan - MI,12,Middle Eastern/North African,26,118,2612
+536254k,2021,Angela,D.,Craig,Angela Craig,Democrat,Congress,U.S. Representative,Minnesota - MN,2,White,27,117,2702
+536254k,2020,Angela,D.,Craig,Angela Craig,Democrat,Congress,U.S. Representative,Minnesota - MN,2,White,27,116,2702
+536254k,2019,Angela,D.,Craig,Angela Craig,Democrat,Congress,U.S. Representative,Minnesota - MN,2,White,27,116,2702
+536254k,2022,Angela,D.,Craig,Angela Craig,Democrat,Congress,U.S. Representative,Minnesota - MN,2,White,27,117,2702
+195769k,2021,Michelle,L.,Fischbach,Michelle Fischbach,Republican,Congress,U.S. Representative,Minnesota - MN,7,White,27,117,2707
+195769k,2022,Michelle,L.,Fischbach,Michelle Fischbach,Republican,Congress,U.S. Representative,Minnesota - MN,7,White,27,117,2707
+195933k,2017,Betty,,McCollum,Betty McCollum,Democrat,Congress,U.S. Representative,Minnesota - MN,4,White,27,115,2704
+195933k,2020,Betty,,McCollum,Betty McCollum,Democrat,Congress,U.S. Representative,Minnesota - MN,4,White,27,116,2704
+195933k,2019,Betty,,McCollum,Betty McCollum,Democrat,Congress,U.S. Representative,Minnesota - MN,4,White,27,116,2704
+195933k,2022,Betty,,McCollum,Betty McCollum,Democrat,Congress,U.S. Representative,Minnesota - MN,4,White,27,117,2704
+195933k,2018,Betty,,McCollum,Betty McCollum,Democrat,Congress,U.S. Representative,Minnesota - MN,4,White,27,115,2704
+195933k,2021,Betty,,McCollum,Betty McCollum,Democrat,Congress,U.S. Representative,Minnesota - MN,4,White,27,117,2704
+583510k,2020,Ilhan,,Omar,Ilhan Omar,Democrat,Congress,U.S. Representative,Minnesota - MN,5,Black,27,116,2705
+583510k,2019,Ilhan,,Omar,Ilhan Omar,Democrat,Congress,U.S. Representative,Minnesota - MN,5,Black,27,116,2705
+583510k,2022,Ilhan,,Omar,Ilhan Omar,Democrat,Congress,U.S. Representative,Minnesota - MN,5,Black,27,117,2705
+583510k,2021,Ilhan,,Omar,Ilhan Omar,Democrat,Congress,U.S. Representative,Minnesota - MN,5,Black,27,117,2705
+536254k,2023,Angela,D.,Craig,Angela Craig,Democrat,Congress,U.S. Representative,Minnesota - MN,2,White,27,118,2702
+195769k,2023,Michelle,L.,Fischbach,Michelle Fischbach,Republican,Congress,U.S. Representative,Minnesota - MN,7,White,27,118,2707
+195933k,2023,Betty,,McCollum,Betty McCollum,Democrat,Congress,U.S. Representative,Minnesota - MN,4,White,27,118,2704
+583510k,2023,Ilhan,,Omar,Ilhan Omar,Democrat,Congress,U.S. Representative,Minnesota - MN,5,Black,27,118,2705
+571342k,2022,Cori,,Bush,Cori Bush,Democrat,Congress,U.S. Representative,Missouri - MO,1,Black,29,117,2901
+571342k,2021,Cori,,Bush,Cori Bush,Democrat,Congress,U.S. Representative,Missouri - MO,1,Black,29,117,2901
+284768k,2019,Vicky,Jo,Hartzler,Vicky Hartzler,Republican,Congress,U.S. Representative,Missouri - MO,4,White,29,116,2904
+284768k,2022,Vicky,Jo,Hartzler,Vicky Hartzler,Republican,Congress,U.S. Representative,Missouri - MO,4,White,29,117,2904
+284768k,2018,Vicky,Jo,Hartzler,Vicky Hartzler,Republican,Congress,U.S. Representative,Missouri - MO,4,White,29,115,2904
+284768k,2021,Vicky,Jo,Hartzler,Vicky Hartzler,Republican,Congress,U.S. Representative,Missouri - MO,4,White,29,117,2904
+284768k,2017,Vicky,Jo,Hartzler,Vicky Hartzler,Republican,Congress,U.S. Representative,Missouri - MO,4,White,29,115,2904
+284768k,2020,Vicky,Jo,Hartzler,Vicky Hartzler,Republican,Congress,U.S. Representative,Missouri - MO,4,White,29,116,2904
+378827k,2017,Ann,L.,Wagner,Ann Wagner,Republican,Congress,U.S. Representative,Missouri - MO,2,White,29,115,2902
+378827k,2020,Ann,L.,Wagner,Ann Wagner,Republican,Congress,U.S. Representative,Missouri - MO,2,White,29,116,2902
+378827k,2019,Ann,L.,Wagner,Ann Wagner,Republican,Congress,U.S. Representative,Missouri - MO,2,White,29,116,2902
+378827k,2022,Ann,L.,Wagner,Ann Wagner,Republican,Congress,U.S. Representative,Missouri - MO,2,White,29,117,2902
+378827k,2018,Ann,L.,Wagner,Ann Wagner,Republican,Congress,U.S. Representative,Missouri - MO,2,White,29,115,2902
+378827k,2021,Ann,L.,Wagner,Ann Wagner,Republican,Congress,U.S. Representative,Missouri - MO,2,White,29,117,2902
+571342k,2023,Cori,,Bush,Cori Bush,Democrat,Congress,U.S. Representative,Missouri - MO,1,Black,29,118,2901
+378827k,2023,Ann,L.,Wagner,Ann Wagner,Republican,Congress,U.S. Representative,Missouri - MO,2,White,29,118,2902
+541030k,2020,Susie,,Lee,Susie Lee,Democrat,Congress,U.S. Representative,Nevada - NV,3,White,32,116,3203
+541030k,2019,Susie,,Lee,Susie Lee,Democrat,Congress,U.S. Representative,Nevada - NV,3,White,32,116,3203
+541030k,2022,Susie,,Lee,Susie Lee,Democrat,Congress,U.S. Representative,Nevada - NV,3,White,32,117,3203
+541030k,2021,Susie,,Lee,Susie Lee,Democrat,Congress,U.S. Representative,Nevada - NV,3,White,32,117,3203
+567336k,2018,Jacklyn,S.,Rosen,Jacklyn Rosen,Democrat,Congress,U.S. Representative,Nevada - NV,3,White,32,115,3203
+567336k,2017,Jacklyn,S.,Rosen,Jacklyn Rosen,Democrat,Congress,U.S. Representative,Nevada - NV,3,White,32,115,3203
+197530k,2019,Dina,C.,Titus,Dina Titus,Democrat,Congress,U.S. Representative,Nevada - NV,1,White,32,116,3201
+197530k,2022,Dina,C.,Titus,Dina Titus,Democrat,Congress,U.S. Representative,Nevada - NV,1,White,32,117,3201
+197530k,2018,Dina,C.,Titus,Dina Titus,Democrat,Congress,U.S. Representative,Nevada - NV,1,White,32,115,3201
+197530k,2021,Dina,C.,Titus,Dina Titus,Democrat,Congress,U.S. Representative,Nevada - NV,1,White,32,117,3201
+197530k,2017,Dina,C.,Titus,Dina Titus,Democrat,Congress,U.S. Representative,Nevada - NV,1,White,32,115,3201
+197530k,2020,Dina,C.,Titus,Dina Titus,Democrat,Congress,U.S. Representative,Nevada - NV,1,White,32,116,3201
+541030k,2023,Susie,,Lee,Susie Lee,Democrat,Congress,U.S. Representative,Nevada - NV,3,White,32,118,3203
+197530k,2023,Dina,C.,Titus,Dina Titus,Democrat,Congress,U.S. Representative,Nevada - NV,1,White,32,118,3201
+284835k,2019,Ann,McLane,Kuster,Ann Kuster,Democrat,Congress,U.S. Representative,New Hampshire - NH,2,White,33,116,3302
+284835k,2022,Ann,McLane,Kuster,Ann Kuster,Democrat,Congress,U.S. Representative,New Hampshire - NH,2,White,33,117,3302
+284835k,2018,Ann,McLane,Kuster,Ann Kuster,Democrat,Congress,U.S. Representative,New Hampshire - NH,2,White,33,115,3302
+284835k,2021,Ann,McLane,Kuster,Ann Kuster,Democrat,Congress,U.S. Representative,New Hampshire - NH,2,White,33,117,3302
+284835k,2017,Ann,McLane,Kuster,Ann Kuster,Democrat,Congress,U.S. Representative,New Hampshire - NH,2,White,33,115,3302
+284835k,2020,Ann,McLane,Kuster,Ann Kuster,Democrat,Congress,U.S. Representative,New Hampshire - NH,2,White,33,116,3302
+248311k,2018,Carol,,Shea-Porter,Carol Shea-Porter,Democrat,Congress,U.S. Representative,New Hampshire - NH,1,White,33,115,3301
+248311k,2017,Carol,,Shea-Porter,Carol Shea-Porter,Democrat,Congress,U.S. Representative,New Hampshire - NH,1,White,33,115,3301
+284835k,2023,Ann,McLane,Kuster,Ann Kuster,Democrat,Congress,U.S. Representative,New Hampshire - NH,2,White,33,118,3302
+625260k,2019,Mikie,,Sherrill,Mikie Sherrill,Democrat,Congress,U.S. Representative,New Jersey - NJ,11,White,34,116,3411
+625260k,2022,Mikie,,Sherrill,Mikie Sherrill,Democrat,Congress,U.S. Representative,New Jersey - NJ,11,White,34,117,3411
+625260k,2021,Mikie,,Sherrill,Mikie Sherrill,Democrat,Congress,U.S. Representative,New Jersey - NJ,11,White,34,117,3411
+625260k,2020,Mikie,,Sherrill,Mikie Sherrill,Democrat,Congress,U.S. Representative,New Jersey - NJ,11,White,34,116,3411
+362925k,2019,Bonnie,,Watson Coleman,Bonnie Watson Coleman,Democrat,Congress,U.S. Representative,New Jersey - NJ,12,Black,34,116,3412
+362925k,2022,Bonnie,,Watson Coleman,Bonnie Watson Coleman,Democrat,Congress,U.S. Representative,New Jersey - NJ,12,Black,34,117,3412
+362925k,2018,Bonnie,,Watson Coleman,Bonnie Watson Coleman,Democrat,Congress,U.S. Representative,New Jersey - NJ,12,Black,34,115,3412
+362925k,2021,Bonnie,,Watson Coleman,Bonnie Watson Coleman,Democrat,Congress,U.S. Representative,New Jersey - NJ,12,Black,34,117,3412
+362925k,2017,Bonnie,,Watson Coleman,Bonnie Watson Coleman,Democrat,Congress,U.S. Representative,New Jersey - NJ,12,Black,34,115,3412
+362925k,2020,Bonnie,,Watson Coleman,Bonnie Watson Coleman,Democrat,Congress,U.S. Representative,New Jersey - NJ,12,Black,34,116,3412
+625260k,2023,Mikie,,Sherrill,Mikie Sherrill,Democrat,Congress,U.S. Representative,New Jersey - NJ,11,White,34,118,3411
+362925k,2023,Bonnie,,Watson Coleman,Bonnie Watson Coleman,Democrat,Congress,U.S. Representative,New Jersey - NJ,12,Black,34,118,3412
+491018k,2021,Debra,A.,Haaland,Debra Haaland,Democrat,Congress,U.S. Representative,New Mexico - NM,1,Native American/Alaska Native/Native Hawaiian,35,117,3501
+491018k,2020,Debra,A.,Haaland,Debra Haaland,Democrat,Congress,U.S. Representative,New Mexico - NM,1,Native American/Alaska Native/Native Hawaiian,35,116,3501
+491018k,2019,Debra,A.,Haaland,Debra Haaland,Democrat,Congress,U.S. Representative,New Mexico - NM,1,Native American/Alaska Native/Native Hawaiian,35,116,3501
+299694k,2021,Yvette,S.,Herrell,Yvette Herrell,Republican,Congress,U.S. Representative,New Mexico - NM,2,Native American/Alaska Native/Native Hawaiian,35,117,3502
+299694k,2022,Yvette,S.,Herrell,Yvette Herrell,Republican,Congress,U.S. Representative,New Mexico - NM,2,Native American/Alaska Native/Native Hawaiian,35,117,3502
+453352k,2021,Teresa,,Leger Fernandez,Teresa Leger Fernandez,Democrat,Congress,U.S. Representative,New Mexico - NM,3,Latina,35,117,3503
+453352k,2022,Teresa,,Leger Fernandez,Teresa Leger Fernandez,Democrat,Congress,U.S. Representative,New Mexico - NM,3,Latina,35,117,3503
+378591k,2018,Michelle,,Lujan Grisham,Michelle Lujan Grisham,Democrat,Congress,U.S. Representative,New Mexico - NM,1,Latina,35,115,3501
+378591k,2017,Michelle,,Lujan Grisham,Michelle Lujan Grisham,Democrat,Congress,U.S. Representative,New Mexico - NM,1,Latina,35,115,3501
+461875k,2021,Melanie,A.,Stansbury,Melanie Stansbury,Democrat,Congress,U.S. Representative,New Mexico - NM,1,White,35,117,3501
+461875k,2022,Melanie,A.,Stansbury,Melanie Stansbury,Democrat,Congress,U.S. Representative,New Mexico - NM,1,White,35,117,3501
+277948k,2019,Xochitl,,Torres Small,Xochitl Torres Small,Democrat,Congress,U.S. Representative,New Mexico - NM,2,Latina,35,116,3502
+277948k,2020,Xochitl,,Torres Small,Xochitl Torres Small,Democrat,Congress,U.S. Representative,New Mexico - NM,2,Latina,35,116,3502
+453352k,2023,Teresa,,Leger Fernandez,Teresa Leger Fernandez,Democrat,Congress,U.S. Representative,New Mexico - NM,3,Latina,35,118,3503
+461875k,2023,Melanie,A.,Stansbury,Melanie Stansbury,Democrat,Congress,U.S. Representative,New Mexico - NM,1,White,35,118,3501
+248335k,2021,Yvette,D.,Clarke,Yvette Clarke,Democrat,Congress,U.S. Representative,New York - NY,9,Black,36,117,3609
+248335k,2017,Yvette,D.,Clarke,Yvette Clarke,Democrat,Congress,U.S. Representative,New York - NY,9,Black,36,115,3609
+248335k,2020,Yvette,D.,Clarke,Yvette Clarke,Democrat,Congress,U.S. Representative,New York - NY,9,Black,36,116,3609
+248335k,2019,Yvette,D.,Clarke,Yvette Clarke,Democrat,Congress,U.S. Representative,New York - NY,9,Black,36,116,3609
+248335k,2022,Yvette,D.,Clarke,Yvette Clarke,Democrat,Congress,U.S. Representative,New York - NY,9,Black,36,117,3609
+248335k,2018,Yvette,D.,Clarke,Yvette Clarke,Democrat,Congress,U.S. Representative,New York - NY,9,Black,36,115,3609
+158987k,2017,Nita,M.,Lowey,Nita Lowey,Democrat,Congress,U.S. Representative,New York - NY,17,White,36,115,3617
+158987k,2020,Nita,M.,Lowey,Nita Lowey,Democrat,Congress,U.S. Representative,New York - NY,17,White,36,116,3617
+158987k,2019,Nita,M.,Lowey,Nita Lowey,Democrat,Congress,U.S. Representative,New York - NY,17,White,36,116,3617
+158987k,2018,Nita,M.,Lowey,Nita Lowey,Democrat,Congress,U.S. Representative,New York - NY,17,White,36,115,3617
+309650k,2022,Nicole,,Malliotakis,Nicole Malliotakis,Republican,Congress,U.S. Representative,New York - NY,11,"White, Latina",36,117,3611
+309650k,2021,Nicole,,Malliotakis,Nicole Malliotakis,Republican,Congress,U.S. Representative,New York - NY,11,"White, Latina",36,117,3611
+158983k,2018,Carolyn,B.,Maloney,Carolyn Maloney,Democrat,Congress,U.S. Representative,New York - NY,12,White,36,115,3612
+158983k,2020,Carolyn,B.,Maloney,Carolyn Maloney,Democrat,Congress,U.S. Representative,New York - NY,12,White,36,116,3612
+158983k,2017,Carolyn,B.,Maloney,Carolyn Maloney,Democrat,Congress,U.S. Representative,New York - NY,12,White,36,115,3612
+158983k,2019,Carolyn,B.,Maloney,Carolyn Maloney,Democrat,Congress,U.S. Representative,New York - NY,12,White,36,116,3612
+158983k,2022,Carolyn,B.,Maloney,Carolyn Maloney,Democrat,Congress,U.S. Representative,New York - NY,12,White,36,117,3612
+158983k,2021,Carolyn,B.,Maloney,Carolyn Maloney,Democrat,Congress,U.S. Representative,New York - NY,12,White,36,117,3612
+271828k,2017,Grace,,Meng,Grace Meng,Democrat,Congress,U.S. Representative,New York - NY,6,Asian American/Pacific Islander,36,115,3606
+271828k,2020,Grace,,Meng,Grace Meng,Democrat,Congress,U.S. Representative,New York - NY,6,Asian American/Pacific Islander,36,116,3606
+271828k,2019,Grace,,Meng,Grace Meng,Democrat,Congress,U.S. Representative,New York - NY,6,Asian American/Pacific Islander,36,116,3606
+271828k,2022,Grace,,Meng,Grace Meng,Democrat,Congress,U.S. Representative,New York - NY,6,Asian American/Pacific Islander,36,117,3606
+271828k,2018,Grace,,Meng,Grace Meng,Democrat,Congress,U.S. Representative,New York - NY,6,Asian American/Pacific Islander,36,115,3606
+271828k,2021,Grace,,Meng,Grace Meng,Democrat,Congress,U.S. Representative,New York - NY,6,Asian American/Pacific Islander,36,117,3606
+624858k,2020,Alexandria,,Ocasio-Cortez,Alexandria Ocasio-Cortez,Democrat,Congress,U.S. Representative,New York - NY,14,Latina,36,116,3614
+624858k,2019,Alexandria,,Ocasio-Cortez,Alexandria Ocasio-Cortez,Democrat,Congress,U.S. Representative,New York - NY,14,Latina,36,116,3614
+624858k,2022,Alexandria,,Ocasio-Cortez,Alexandria Ocasio-Cortez,Democrat,Congress,U.S. Representative,New York - NY,14,Latina,36,117,3614
+624858k,2021,Alexandria,,Ocasio-Cortez,Alexandria Ocasio-Cortez,Democrat,Congress,U.S. Representative,New York - NY,14,Latina,36,117,3614
+489426k,2019,Kathleen,M.,Rice,Kathleen Rice,Democrat,Congress,U.S. Representative,New York - NY,4,White,36,116,3604
+489426k,2022,Kathleen,M.,Rice,Kathleen Rice,Democrat,Congress,U.S. Representative,New York - NY,4,White,36,117,3604
+489426k,2018,Kathleen,M.,Rice,Kathleen Rice,Democrat,Congress,U.S. Representative,New York - NY,4,White,36,115,3604
+489426k,2021,Kathleen,M.,Rice,Kathleen Rice,Democrat,Congress,U.S. Representative,New York - NY,4,White,36,117,3604
+489426k,2017,Kathleen,M.,Rice,Kathleen Rice,Democrat,Congress,U.S. Representative,New York - NY,4,White,36,115,3604
+489426k,2020,Kathleen,M.,Rice,Kathleen Rice,Democrat,Congress,U.S. Representative,New York - NY,4,White,36,116,3604
+158997k,2017,Louise,M.,Slaughter,Louise Slaughter,Democrat,Congress,U.S. Representative,New York - NY,25,White,36,115,3625
+158997k,2018,Louise,M.,Slaughter,Louise Slaughter,Democrat,Congress,U.S. Representative,New York - NY,25,White,36,115,3625
+247560k,2019,Elise,M.,Stefanik,Elise Stefanik,Republican,Congress,U.S. Representative,New York - NY,21,White,36,116,3621
+247560k,2022,Elise,M.,Stefanik,Elise Stefanik,Republican,Congress,U.S. Representative,New York - NY,21,White,36,117,3621
+247560k,2018,Elise,M.,Stefanik,Elise Stefanik,Republican,Congress,U.S. Representative,New York - NY,21,White,36,115,3621
+247560k,2021,Elise,M.,Stefanik,Elise Stefanik,Republican,Congress,U.S. Representative,New York - NY,21,White,36,117,3621
+247560k,2017,Elise,M.,Stefanik,Elise Stefanik,Republican,Congress,U.S. Representative,New York - NY,21,White,36,115,3621
+247560k,2020,Elise,M.,Stefanik,Elise Stefanik,Republican,Congress,U.S. Representative,New York - NY,21,White,36,116,3621
+216162k,2018,Claudia,,Tenney,Claudia Tenney,Republican,Congress,U.S. Representative,New York - NY,22,White,36,115,3622
+216162k,2022,Claudia,,Tenney,Claudia Tenney,Republican,Congress,U.S. Representative,New York - NY,22,White,36,117,3622
+216162k,2017,Claudia,,Tenney,Claudia Tenney,Republican,Congress,U.S. Representative,New York - NY,22,White,36,115,3622
+216162k,2021,Claudia,,Tenney,Claudia Tenney,Republican,Congress,U.S. Representative,New York - NY,22,White,36,117,3622
+158981k,2017,Nydia,M.,Velazquez,Nydia Velazquez,Democrat,Congress,U.S. Representative,New York - NY,7,Latina,36,115,3607
+158981k,2020,Nydia,M.,Velazquez,Nydia Velazquez,Democrat,Congress,U.S. Representative,New York - NY,7,Latina,36,116,3607
+158981k,2019,Nydia,M.,Velazquez,Nydia Velazquez,Democrat,Congress,U.S. Representative,New York - NY,7,Latina,36,116,3607
+158981k,2022,Nydia,M.,Velazquez,Nydia Velazquez,Democrat,Congress,U.S. Representative,New York - NY,7,Latina,36,117,3607
+158981k,2018,Nydia,M.,Velazquez,Nydia Velazquez,Democrat,Congress,U.S. Representative,New York - NY,7,Latina,36,115,3607
+158981k,2021,Nydia,M.,Velazquez,Nydia Velazquez,Democrat,Congress,U.S. Representative,New York - NY,7,Latina,36,117,3607
+248335k,2023,Yvette,D.,Clarke,Yvette Clarke,Democrat,Congress,U.S. Representative,New York - NY,9,Black,36,118,3609
+309650k,2023,Nicole,,Malliotakis,Nicole Malliotakis,Republican,Congress,U.S. Representative,New York - NY,11,"White, Latina",36,118,3611
+271828k,2023,Grace,,Meng,Grace Meng,Democrat,Congress,U.S. Representative,New York - NY,6,Asian American/Pacific Islander,36,118,3606
+624858k,2023,Alexandria,,Ocasio-Cortez,Alexandria Ocasio-Cortez,Democrat,Congress,U.S. Representative,New York - NY,14,Latina,36,118,3614
+247560k,2023,Elise,M.,Stefanik,Elise Stefanik,Republican,Congress,U.S. Representative,New York - NY,21,White,36,118,3621
+216162k,2023,Claudia,,Tenney,Claudia Tenney,Republican,Congress,U.S. Representative,New York - NY,24,White,36,118,3624
+158981k,2023,Nydia,M.,Velazquez,Nydia Velazquez,Democrat,Congress,U.S. Representative,New York - NY,7,Latina,36,118,3607
+196595k,2018,Alma,S.,Adams,Alma Adams,Democrat,Congress,U.S. Representative,North Carolina - NC,12,Black,37,115,3712
+196595k,2021,Alma,S.,Adams,Alma Adams,Democrat,Congress,U.S. Representative,North Carolina - NC,12,Black,37,117,3712
+196595k,2017,Alma,S.,Adams,Alma Adams,Democrat,Congress,U.S. Representative,North Carolina - NC,12,Black,37,115,3712
+196595k,2020,Alma,S.,Adams,Alma Adams,Democrat,Congress,U.S. Representative,North Carolina - NC,12,Black,37,116,3712
+196595k,2019,Alma,S.,Adams,Alma Adams,Democrat,Congress,U.S. Representative,North Carolina - NC,12,Black,37,116,3712
+196595k,2022,Alma,S.,Adams,Alma Adams,Democrat,Congress,U.S. Representative,North Carolina - NC,12,Black,37,117,3712
+196515k,2021,Virginia,A.,Foxx,Virginia Foxx,Republican,Congress,U.S. Representative,North Carolina - NC,5,White,37,117,3705
+196515k,2017,Virginia,A.,Foxx,Virginia Foxx,Republican,Congress,U.S. Representative,North Carolina - NC,5,White,37,115,3705
+196515k,2020,Virginia,A.,Foxx,Virginia Foxx,Republican,Congress,U.S. Representative,North Carolina - NC,5,White,37,116,3705
+196515k,2019,Virginia,A.,Foxx,Virginia Foxx,Republican,Congress,U.S. Representative,North Carolina - NC,5,White,37,116,3705
+196515k,2022,Virginia,A.,Foxx,Virginia Foxx,Republican,Congress,U.S. Representative,North Carolina - NC,5,White,37,117,3705
+196515k,2018,Virginia,A.,Foxx,Virginia Foxx,Republican,Congress,U.S. Representative,North Carolina - NC,5,White,37,115,3705
+646745k,2022,Kathy,,Manning,Kathy Manning,Democrat,Congress,U.S. Representative,North Carolina - NC,6,White,37,117,3706
+646745k,2021,Kathy,,Manning,Kathy Manning,Democrat,Congress,U.S. Representative,North Carolina - NC,6,White,37,117,3706
+211983k,2022,Deborah,,Ross,Deborah Ross,Democrat,Congress,U.S. Representative,North Carolina - NC,2,White,37,117,3702
+211983k,2021,Deborah,,Ross,Deborah Ross,Democrat,Congress,U.S. Representative,North Carolina - NC,2,White,37,117,3702
+196595k,2023,Alma,S.,Adams,Alma Adams,Democrat,Congress,U.S. Representative,North Carolina - NC,12,Black,37,118,3712
+397611k,2023,Valerie,P.,Foushee,Valerie Foushee,Democrat,Congress,U.S. Representative,North Carolina - NC,4,Black,37,118,3704
+196515k,2023,Virginia,A.,Foxx,Virginia Foxx,Republican,Congress,U.S. Representative,North Carolina - NC,5,White,37,118,3705
+646745k,2023,Kathy,,Manning,Kathy Manning,Democrat,Congress,U.S. Representative,North Carolina - NC,6,White,37,118,3706
+211983k,2023,Deborah,,Ross,Deborah Ross,Democrat,Congress,U.S. Representative,North Carolina - NC,2,White,37,118,3702
+197852k,2019,Joyce,B.,Beatty,Joyce Beatty,Democrat,Congress,U.S. Representative,Ohio - OH,3,Black,39,116,3903
+197852k,2022,Joyce,B.,Beatty,Joyce Beatty,Democrat,Congress,U.S. Representative,Ohio - OH,3,Black,39,117,3903
+197852k,2018,Joyce,B.,Beatty,Joyce Beatty,Democrat,Congress,U.S. Representative,Ohio - OH,3,Black,39,115,3903
+197852k,2021,Joyce,B.,Beatty,Joyce Beatty,Democrat,Congress,U.S. Representative,Ohio - OH,3,Black,39,117,3903
+197852k,2017,Joyce,B.,Beatty,Joyce Beatty,Democrat,Congress,U.S. Representative,Ohio - OH,3,Black,39,115,3903
+197852k,2020,Joyce,B.,Beatty,Joyce Beatty,Democrat,Congress,U.S. Representative,Ohio - OH,3,Black,39,116,3903
+772727k,2022,Shontel,,Brown,Shontel Brown,Democrat,Congress,U.S. Representative,Ohio - OH,11,Black,39,117,3911
+772727k,2021,Shontel,,Brown,Shontel Brown,Democrat,Congress,U.S. Representative,Ohio - OH,11,Black,39,117,3911
+271756k,2018,Marcia,L.,Fudge,Marcia Fudge,Democrat,Congress,U.S. Representative,Ohio - OH,11,Black,39,115,3911
+271756k,2021,Marcia,L.,Fudge,Marcia Fudge,Democrat,Congress,U.S. Representative,Ohio - OH,11,Black,39,117,3911
+271756k,2017,Marcia,L.,Fudge,Marcia Fudge,Democrat,Congress,U.S. Representative,Ohio - OH,11,Black,39,115,3911
+271756k,2020,Marcia,L.,Fudge,Marcia Fudge,Democrat,Congress,U.S. Representative,Ohio - OH,11,Black,39,116,3911
+271756k,2019,Marcia,L.,Fudge,Marcia Fudge,Democrat,Congress,U.S. Representative,Ohio - OH,11,Black,39,116,3911
+159009k,2018,Marcy,C.,Kaptur,Marcy Kaptur,Democrat,Congress,U.S. Representative,Ohio - OH,9,White,39,115,3909
+159009k,2021,Marcy,C.,Kaptur,Marcy Kaptur,Democrat,Congress,U.S. Representative,Ohio - OH,9,White,39,117,3909
+159009k,2017,Marcy,C.,Kaptur,Marcy Kaptur,Democrat,Congress,U.S. Representative,Ohio - OH,9,White,39,115,3909
+159009k,2020,Marcy,C.,Kaptur,Marcy Kaptur,Democrat,Congress,U.S. Representative,Ohio - OH,9,White,39,116,3909
+159009k,2019,Marcy,C.,Kaptur,Marcy Kaptur,Democrat,Congress,U.S. Representative,Ohio - OH,9,White,39,116,3909
+159009k,2022,Marcy,C.,Kaptur,Marcy Kaptur,Democrat,Congress,U.S. Representative,Ohio - OH,9,White,39,117,3909
+197852k,2023,Joyce,B.,Beatty,Joyce Beatty,Democrat,Congress,U.S. Representative,Ohio - OH,3,Black,39,118,3903
+772727k,2023,Shontel,,Brown,Shontel Brown,Democrat,Congress,U.S. Representative,Ohio - OH,11,Black,39,118,3911
+159009k,2023,Marcy,C.,Kaptur,Marcy Kaptur,Democrat,Congress,U.S. Representative,Ohio - OH,9,White,39,118,3909
+486378k,2023,Emilia,Strong,Sykes,Emilia Sykes,Democrat,Congress,U.S. Representative,Ohio - OH,13,Black,39,118,3913
+495403k,2022,Stephanie,,Bice,Stephanie Bice,Republican,Congress,U.S. Representative,Oklahoma - OK,5,White,40,117,4005
+495403k,2021,Stephanie,,Bice,Stephanie Bice,Republican,Congress,U.S. Representative,Oklahoma - OK,5,White,40,117,4005
+629660k,2020,Kendra,,Horn,Kendra Horn,Democrat,Congress,U.S. Representative,Oklahoma - OK,5,White,40,116,4005
+629660k,2019,Kendra,,Horn,Kendra Horn,Democrat,Congress,U.S. Representative,Oklahoma - OK,5,White,40,116,4005
+495403k,2023,Stephanie,,Bice,Stephanie Bice,Republican,Congress,U.S. Representative,Oklahoma - OK,5,White,40,118,4005
+249764k,2018,Suzanne,M.,Bonamici,Suzanne Bonamici,Democrat,Congress,U.S. Representative,Oregon - OR,1,White,41,115,4101
+249764k,2021,Suzanne,M.,Bonamici,Suzanne Bonamici,Democrat,Congress,U.S. Representative,Oregon - OR,1,White,41,117,4101
+249764k,2017,Suzanne,M.,Bonamici,Suzanne Bonamici,Democrat,Congress,U.S. Representative,Oregon - OR,1,White,41,115,4101
+249764k,2020,Suzanne,M.,Bonamici,Suzanne Bonamici,Democrat,Congress,U.S. Representative,Oregon - OR,1,White,41,116,4101
+249764k,2019,Suzanne,M.,Bonamici,Suzanne Bonamici,Democrat,Congress,U.S. Representative,Oregon - OR,1,White,41,116,4101
+249764k,2022,Suzanne,M.,Bonamici,Suzanne Bonamici,Democrat,Congress,U.S. Representative,Oregon - OR,1,White,41,117,4101
+249764k,2023,Suzanne,M.,Bonamici,Suzanne Bonamici,Democrat,Congress,U.S. Representative,Oregon - OR,1,White,41,118,4101
+568297k,2023,Lori,,Chavez-DeRemer,Lori Chavez-DeRemer,Republican,Congress,U.S. Representative,Oregon - OR,5,"White, Latina",41,118,4105
+282137k,2023,Val,,Hoyle,Val Hoyle,Democrat,Congress,U.S. Representative,Oregon - OR,4,White,41,118,4104
+637004k,2023,Andrea,,Salinas,Andrea Salinas,Democrat,Congress,U.S. Representative,Oregon - OR,6,Latina,41,118,4106
+569358k,2021,Madeleine,,Dean,Madeleine Dean,Democrat,Congress,U.S. Representative,Pennsylvania - PA,4,White,42,117,4204
+569358k,2020,Madeleine,,Dean,Madeleine Dean,Democrat,Congress,U.S. Representative,Pennsylvania - PA,4,White,42,116,4204
+569358k,2019,Madeleine,,Dean,Madeleine Dean,Democrat,Congress,U.S. Representative,Pennsylvania - PA,4,White,42,116,4204
+569358k,2022,Madeleine,,Dean,Madeleine Dean,Democrat,Congress,U.S. Representative,Pennsylvania - PA,4,White,42,117,4204
+621721k,2021,Chrissy,,Houlahan,Chrissy Houlahan,Democrat,Congress,U.S. Representative,Pennsylvania - PA,6,White,42,117,4206
+621721k,2020,Chrissy,,Houlahan,Chrissy Houlahan,Democrat,Congress,U.S. Representative,Pennsylvania - PA,6,White,42,116,4206
+621721k,2019,Chrissy,,Houlahan,Chrissy Houlahan,Democrat,Congress,U.S. Representative,Pennsylvania - PA,6,White,42,116,4206
+621721k,2022,Chrissy,,Houlahan,Chrissy Houlahan,Democrat,Congress,U.S. Representative,Pennsylvania - PA,6,White,42,117,4206
+655204k,2020,Mary,Gay,Scanlon,Mary Scanlon,Democrat,Congress,U.S. Representative,Pennsylvania - PA,5,White,42,116,4205
+655204k,2019,Mary,Gay,Scanlon,Mary Scanlon,Democrat,Congress,U.S. Representative,Pennsylvania - PA,5,White,42,116,4205
+655204k,2022,Mary,Gay,Scanlon,Mary Scanlon,Democrat,Congress,U.S. Representative,Pennsylvania - PA,5,White,42,117,4205
+655204k,2018,Mary,Gay,Scanlon,Mary Scanlon,Democrat,Congress,U.S. Representative,Pennsylvania - PA,7,White,42,115,4207
+655204k,2021,Mary,Gay,Scanlon,Mary Scanlon,Democrat,Congress,U.S. Representative,Pennsylvania - PA,5,White,42,117,4205
+638609k,2020,Susan,Ellis,Wild,Susan Wild,Democrat,Congress,U.S. Representative,Pennsylvania - PA,7,White,42,116,4207
+638609k,2019,Susan,Ellis,Wild,Susan Wild,Democrat,Congress,U.S. Representative,Pennsylvania - PA,7,White,42,116,4207
+638609k,2022,Susan,Ellis,Wild,Susan Wild,Democrat,Congress,U.S. Representative,Pennsylvania - PA,7,White,42,117,4207
+638609k,2018,Susan,Ellis,Wild,Susan Wild,Democrat,Congress,U.S. Representative,Pennsylvania - PA,15,White,42,115,4215
+638609k,2021,Susan,Ellis,Wild,Susan Wild,Democrat,Congress,U.S. Representative,Pennsylvania - PA,7,White,42,117,4207
+569358k,2023,Madeleine,,Dean,Madeleine Dean,Democrat,Congress,U.S. Representative,Pennsylvania - PA,4,White,42,118,4204
+621721k,2023,Chrissy,,Houlahan,Chrissy Houlahan,Democrat,Congress,U.S. Representative,Pennsylvania - PA,6,White,42,118,4206
+660014k,2023,Summer,L.,Lee,Summer Lee,Democrat,Congress,U.S. Representative,Pennsylvania - PA,12,Black,42,118,4212
+655204k,2023,Mary,Gay,Scanlon,Mary Scanlon,Democrat,Congress,U.S. Representative,Pennsylvania - PA,5,White,42,118,4205
+638609k,2023,Susan,Ellis,Wild,Susan Wild,Democrat,Congress,U.S. Representative,Pennsylvania - PA,7,White,42,118,4207
+466143k,2022,Nancy,,Mace,Nancy Mace,Republican,Congress,U.S. Representative,South Carolina - SC,1,White,45,117,4501
+466143k,2021,Nancy,,Mace,Nancy Mace,Republican,Congress,U.S. Representative,South Carolina - SC,1,White,45,117,4501
+466143k,2023,Nancy,,Mace,Nancy Mace,Republican,Congress,U.S. Representative,South Carolina - SC,1,White,45,118,4501
+250197k,2018,Kristi,,Noem,Kristi Noem,Republican,Congress,U.S. Representative,South Dakota - SD,0,White,46,115,4600
+250197k,2017,Kristi,,Noem,Kristi Noem,Republican,Congress,U.S. Representative,South Dakota - SD,0,White,46,115,4600
+199041k,2018,Diane,L.,Black,Diane Black,Republican,Congress,U.S. Representative,Tennessee - TN,6,White,47,115,4706
+199041k,2017,Diane,L.,Black,Diane Black,Republican,Congress,U.S. Representative,Tennessee - TN,6,White,47,115,4706
+198986k,2018,Marsha,,Blackburn,Marsha Blackburn,Republican,Congress,U.S. Representative,Tennessee - TN,7,White,47,115,4707
+198986k,2017,Marsha,,Blackburn,Marsha Blackburn,Republican,Congress,U.S. Representative,Tennessee - TN,7,White,47,115,4707
+734559k,2022,Diana,,Harshbarger,Diana Harshbarger,Republican,Congress,U.S. Representative,Tennessee - TN,1,White,47,117,4701
+734559k,2021,Diana,,Harshbarger,Diana Harshbarger,Republican,Congress,U.S. Representative,Tennessee - TN,1,White,47,117,4701
+734559k,2023,Diana,,Harshbarger,Diana Harshbarger,Republican,Congress,U.S. Representative,Tennessee - TN,1,White,47,118,4701
+634679k,2019,Veronica,,Escobar,Veronica Escobar,Democrat,Congress,U.S. Representative,Texas - TX,16,Latina,48,116,4816
+634679k,2022,Veronica,,Escobar,Veronica Escobar,Democrat,Congress,U.S. Representative,Texas - TX,16,Latina,48,117,4816
+634679k,2021,Veronica,,Escobar,Veronica Escobar,Democrat,Congress,U.S. Representative,Texas - TX,16,Latina,48,117,4816
+634679k,2020,Veronica,,Escobar,Veronica Escobar,Democrat,Congress,U.S. Representative,Texas - TX,16,Latina,48,116,4816
+771355k,2022,Mayra,,Flores,Mayra Flores,Republican,Congress,U.S. Representative,Texas - TX,34,Latina,48,117,4834
+454041k,2019,Sylvia,R.,Garcia,Sylvia Garcia,Democrat,Congress,U.S. Representative,Texas - TX,29,Latina,48,116,4829
+454041k,2022,Sylvia,R.,Garcia,Sylvia Garcia,Democrat,Congress,U.S. Representative,Texas - TX,29,Latina,48,117,4829
+454041k,2021,Sylvia,R.,Garcia,Sylvia Garcia,Democrat,Congress,U.S. Representative,Texas - TX,29,Latina,48,117,4829
+454041k,2020,Sylvia,R.,Garcia,Sylvia Garcia,Democrat,Congress,U.S. Representative,Texas - TX,29,Latina,48,116,4829
+159082k,2018,Kay,N.,Granger,Kay Granger,Republican,Congress,U.S. Representative,Texas - TX,12,White,48,115,4812
+159082k,2021,Kay,N.,Granger,Kay Granger,Republican,Congress,U.S. Representative,Texas - TX,12,White,48,117,4812
+159082k,2017,Kay,N.,Granger,Kay Granger,Republican,Congress,U.S. Representative,Texas - TX,12,White,48,115,4812
+159082k,2020,Kay,N.,Granger,Kay Granger,Republican,Congress,U.S. Representative,Texas - TX,12,White,48,116,4812
+159082k,2019,Kay,N.,Granger,Kay Granger,Republican,Congress,U.S. Representative,Texas - TX,12,White,48,116,4812
+159082k,2022,Kay,N.,Granger,Kay Granger,Republican,Congress,U.S. Representative,Texas - TX,12,White,48,117,4812
+159100k,2019,Eddie,Bernice,Johnson,Eddie Johnson,Democrat,Congress,U.S. Representative,Texas - TX,30,Black,48,116,4830
+159100k,2022,Eddie,Bernice,Johnson,Eddie Johnson,Democrat,Congress,U.S. Representative,Texas - TX,30,Black,48,117,4830
+159100k,2018,Eddie,Bernice,Johnson,Eddie Johnson,Democrat,Congress,U.S. Representative,Texas - TX,30,Black,48,115,4830
+159100k,2021,Eddie,Bernice,Johnson,Eddie Johnson,Democrat,Congress,U.S. Representative,Texas - TX,30,Black,48,117,4830
+159100k,2017,Eddie,Bernice,Johnson,Eddie Johnson,Democrat,Congress,U.S. Representative,Texas - TX,30,Black,48,115,4830
+159100k,2020,Eddie,Bernice,Johnson,Eddie Johnson,Democrat,Congress,U.S. Representative,Texas - TX,30,Black,48,116,4830
+159088k,2019,Sheila,Jackson,Lee,Sheila Lee,Democrat,Congress,U.S. Representative,Texas - TX,18,Black,48,116,4818
+159088k,2022,Sheila,Jackson,Lee,Sheila Lee,Democrat,Congress,U.S. Representative,Texas - TX,18,Black,48,117,4818
+159088k,2018,Sheila,Jackson,Lee,Sheila Lee,Democrat,Congress,U.S. Representative,Texas - TX,18,Black,48,115,4818
+159088k,2021,Sheila,Jackson,Lee,Sheila Lee,Democrat,Congress,U.S. Representative,Texas - TX,18,Black,48,117,4818
+159088k,2017,Sheila,Jackson,Lee,Sheila Lee,Democrat,Congress,U.S. Representative,Texas - TX,18,Black,48,115,4818
+159088k,2020,Sheila,Jackson,Lee,Sheila Lee,Democrat,Congress,U.S. Representative,Texas - TX,18,Black,48,116,4818
+625330k,2021,Elizabeth,,Pannill Fletcher,Elizabeth Pannill Fletcher,Democrat,Congress,U.S. Representative,Texas - TX,7,White,48,117,4807
+625330k,2020,Elizabeth,,Pannill Fletcher,Elizabeth Pannill Fletcher,Democrat,Congress,U.S. Representative,Texas - TX,7,White,48,116,4807
+625330k,2019,Elizabeth,,Pannill Fletcher,Elizabeth Pannill Fletcher,Democrat,Congress,U.S. Representative,Texas - TX,7,White,48,116,4807
+625330k,2022,Elizabeth,,Pannill Fletcher,Elizabeth Pannill Fletcher,Democrat,Congress,U.S. Representative,Texas - TX,7,White,48,117,4807
+661605k,2022,Beth,,Van Duyne,Beth Van Duyne,Republican,Congress,U.S. Representative,Texas - TX,24,White,48,117,4824
+661605k,2021,Beth,,Van Duyne,Beth Van Duyne,Republican,Congress,U.S. Representative,Texas - TX,24,White,48,117,4824
+725560k,2023,Jasmine,Felicia,Crockett,Jasmine Crockett,Democrat,Congress,U.S. Representative,Texas - TX,30,Black,48,118,4830
+721272k,2023,Monica,,De La Cruz,Monica De La Cruz,Republican,Congress,U.S. Representative,Texas - TX,15,Latina,48,118,4815
+634679k,2023,Veronica,,Escobar,Veronica Escobar,Democrat,Congress,U.S. Representative,Texas - TX,16,Latina,48,118,4816
+454041k,2023,Sylvia,R.,Garcia,Sylvia Garcia,Democrat,Congress,U.S. Representative,Texas - TX,29,Latina,48,118,4829
+159082k,2023,Kay,N.,Granger,Kay Granger,Republican,Congress,U.S. Representative,Texas - TX,12,White,48,118,4812
+159088k,2023,Sheila,Jackson,Lee,Sheila Lee,Democrat,Congress,U.S. Representative,Texas - TX,18,Black,48,118,4818
+625330k,2023,Elizabeth,,Pannill Fletcher,Elizabeth Pannill Fletcher,Democrat,Congress,U.S. Representative,Texas - TX,7,White,48,118,4807
+661605k,2023,Beth,,Van Duyne,Beth Van Duyne,Republican,Congress,U.S. Representative,Texas - TX,24,White,48,118,4824
+392417k,2017,Mia,B.,Love,Mia Love,Republican,Congress,U.S. Representative,Utah - UT,4,Black,49,115,4904
+392417k,2018,Mia,B.,Love,Mia Love,Republican,Congress,U.S. Representative,Utah - UT,4,Black,49,115,4904
+503276k,2023,Becca,A.,Balint,Becca Balint,Democrat,Congress,U.S. Representative,Vermont - VT,0,White,50,118,5000
+282950k,2018,Barbara,J.,Comstock,Barbara Comstock,Republican,Congress,U.S. Representative,Virginia - VA,10,White,51,115,5110
+282950k,2017,Barbara,J.,Comstock,Barbara Comstock,Republican,Congress,U.S. Representative,Virginia - VA,10,White,51,115,5110
+644669k,2022,Elaine,G.,Luria,Elaine Luria,Democrat,Congress,U.S. Representative,Virginia - VA,2,White,51,117,5102
+644669k,2021,Elaine,G.,Luria,Elaine Luria,Democrat,Congress,U.S. Representative,Virginia - VA,2,White,51,117,5102
+644669k,2020,Elaine,G.,Luria,Elaine Luria,Democrat,Congress,U.S. Representative,Virginia - VA,2,White,51,116,5102
+644669k,2019,Elaine,G.,Luria,Elaine Luria,Democrat,Congress,U.S. Representative,Virginia - VA,2,White,51,116,5102
+630216k,2019,Abigail,D.,Spanberger,Abigail Spanberger,Democrat,Congress,U.S. Representative,Virginia - VA,7,White,51,116,5107
+630216k,2022,Abigail,D.,Spanberger,Abigail Spanberger,Democrat,Congress,U.S. Representative,Virginia - VA,7,White,51,117,5107
+630216k,2021,Abigail,D.,Spanberger,Abigail Spanberger,Democrat,Congress,U.S. Representative,Virginia - VA,7,White,51,117,5107
+630216k,2020,Abigail,D.,Spanberger,Abigail Spanberger,Democrat,Congress,U.S. Representative,Virginia - VA,7,White,51,116,5107
+484877k,2021,Jennifer,T.,Wexton,Jennifer Wexton,Democrat,Congress,U.S. Representative,Virginia - VA,10,White,51,117,5110
+484877k,2020,Jennifer,T.,Wexton,Jennifer Wexton,Democrat,Congress,U.S. Representative,Virginia - VA,10,White,51,116,5110
+484877k,2019,Jennifer,T.,Wexton,Jennifer Wexton,Democrat,Congress,U.S. Representative,Virginia - VA,10,White,51,116,5110
+484877k,2022,Jennifer,T.,Wexton,Jennifer Wexton,Democrat,Congress,U.S. Representative,Virginia - VA,10,White,51,117,5110
+702465k,2023,Jennifer,A.,Kiggans,Jennifer Kiggans,Republican,Congress,U.S. Representative,Virginia - VA,2,White,51,118,5102
+241253k,2023,Jennifer,L.,McClellan,Jennifer McClellan,Democrat,Congress,U.S. Representative,Virginia - VA,4,Black,51,118,5104
+630216k,2023,Abigail,D.,Spanberger,Abigail Spanberger,Democrat,Congress,U.S. Representative,Virginia - VA,7,White,51,118,5107
+484877k,2023,Jennifer,T.,Wexton,Jennifer Wexton,Democrat,Congress,U.S. Representative,Virginia - VA,10,White,51,118,5110
+284676k,2017,Suzan,K.,DelBene,Suzan DelBene,Democrat,Congress,U.S. Representative,Washington - WA,1,White,53,115,5301
+284676k,2020,Suzan,K.,DelBene,Suzan DelBene,Democrat,Congress,U.S. Representative,Washington - WA,1,White,53,116,5301
+284676k,2019,Suzan,K.,DelBene,Suzan DelBene,Democrat,Congress,U.S. Representative,Washington - WA,1,White,53,116,5301
+284676k,2022,Suzan,K.,DelBene,Suzan DelBene,Democrat,Congress,U.S. Representative,Washington - WA,1,White,53,117,5301
+284676k,2018,Suzan,K.,DelBene,Suzan DelBene,Democrat,Congress,U.S. Representative,Washington - WA,1,White,53,115,5301
+284676k,2021,Suzan,K.,DelBene,Suzan DelBene,Democrat,Congress,U.S. Representative,Washington - WA,1,White,53,117,5301
+229353k,2021,Jaime,L.,Herrera Beutler,Jaime Herrera Beutler,Republican,Congress,U.S. Representative,Washington - WA,3,Latina,53,117,5303
+229353k,2017,Jaime,L.,Herrera Beutler,Jaime Herrera Beutler,Republican,Congress,U.S. Representative,Washington - WA,3,Latina,53,115,5303
+229353k,2020,Jaime,L.,Herrera Beutler,Jaime Herrera Beutler,Republican,Congress,U.S. Representative,Washington - WA,3,Latina,53,116,5303
+229353k,2019,Jaime,L.,Herrera Beutler,Jaime Herrera Beutler,Republican,Congress,U.S. Representative,Washington - WA,3,Latina,53,116,5303
+229353k,2022,Jaime,L.,Herrera Beutler,Jaime Herrera Beutler,Republican,Congress,U.S. Representative,Washington - WA,3,Latina,53,117,5303
+229353k,2018,Jaime,L.,Herrera Beutler,Jaime Herrera Beutler,Republican,Congress,U.S. Representative,Washington - WA,3,Latina,53,115,5303
+499054k,2018,Pramila,,Jayapal,Pramila Jayapal,Democrat,Congress,U.S. Representative,Washington - WA,7,Asian American/Pacific Islander,53,115,5307
+499054k,2021,Pramila,,Jayapal,Pramila Jayapal,Democrat,Congress,U.S. Representative,Washington - WA,7,Asian American/Pacific Islander,53,117,5307
+499054k,2017,Pramila,,Jayapal,Pramila Jayapal,Democrat,Congress,U.S. Representative,Washington - WA,7,Asian American/Pacific Islander,53,115,5307
+499054k,2020,Pramila,,Jayapal,Pramila Jayapal,Democrat,Congress,U.S. Representative,Washington - WA,7,Asian American/Pacific Islander,53,116,5307
+499054k,2019,Pramila,,Jayapal,Pramila Jayapal,Democrat,Congress,U.S. Representative,Washington - WA,7,Asian American/Pacific Islander,53,116,5307
+499054k,2022,Pramila,,Jayapal,Pramila Jayapal,Democrat,Congress,U.S. Representative,Washington - WA,7,Asian American/Pacific Islander,53,117,5307
+199779k,2021,Cathy,,McMorris Rodgers,Cathy McMorris Rodgers,Republican,Congress,U.S. Representative,Washington - WA,5,White,53,117,5305
+199779k,2017,Cathy,,McMorris Rodgers,Cathy McMorris Rodgers,Republican,Congress,U.S. Representative,Washington - WA,5,White,53,115,5305
+199779k,2020,Cathy,,McMorris Rodgers,Cathy McMorris Rodgers,Republican,Congress,U.S. Representative,Washington - WA,5,White,53,116,5305
+199779k,2019,Cathy,,McMorris Rodgers,Cathy McMorris Rodgers,Republican,Congress,U.S. Representative,Washington - WA,5,White,53,116,5305
+199779k,2022,Cathy,,McMorris Rodgers,Cathy McMorris Rodgers,Republican,Congress,U.S. Representative,Washington - WA,5,White,53,117,5305
+199779k,2018,Cathy,,McMorris Rodgers,Cathy McMorris Rodgers,Republican,Congress,U.S. Representative,Washington - WA,5,White,53,115,5305
+632874k,2019,Kim,,Schrier,Kim Schrier,Democrat,Congress,U.S. Representative,Washington - WA,8,White,53,116,5308
+632874k,2022,Kim,,Schrier,Kim Schrier,Democrat,Congress,U.S. Representative,Washington - WA,8,White,53,117,5308
+632874k,2021,Kim,,Schrier,Kim Schrier,Democrat,Congress,U.S. Representative,Washington - WA,8,White,53,117,5308
+632874k,2020,Kim,,Schrier,Kim Schrier,Democrat,Congress,U.S. Representative,Washington - WA,8,White,53,116,5308
+727678k,2021,Marilyn,,Strickland,Marilyn Strickland,Democrat,Congress,U.S. Representative,Washington - WA,10,"Black, Asian American/Pacific Islander",53,117,5310
+727678k,2022,Marilyn,,Strickland,Marilyn Strickland,Democrat,Congress,U.S. Representative,Washington - WA,10,"Black, Asian American/Pacific Islander",53,117,5310
+284676k,2023,Suzan,K.,DelBene,Suzan DelBene,Democrat,Congress,U.S. Representative,Washington - WA,1,White,53,118,5301
+799642k,2023,Marie,,Gluesenkamp Perez,Marie Gluesenkamp Perez,Democrat,Congress,U.S. Representative,Washington - WA,3,Latina,53,118,5303
+499054k,2023,Pramila,,Jayapal,Pramila Jayapal,Democrat,Congress,U.S. Representative,Washington - WA,7,Asian American/Pacific Islander,53,118,5307
+199779k,2023,Cathy,,McMorris Rodgers,Cathy McMorris Rodgers,Republican,Congress,U.S. Representative,Washington - WA,5,White,53,118,5305
+632874k,2023,Kim,,Schrier,Kim Schrier,Democrat,Congress,U.S. Representative,Washington - WA,8,White,53,118,5308
+727678k,2023,Marilyn,,Strickland,Marilyn Strickland,Democrat,Congress,U.S. Representative,Washington - WA,10,"Black, Asian American/Pacific Islander",53,118,5310
+249553k,2019,Carol,D.,Miller,Carol Miller,Republican,Congress,U.S. Representative,West Virginia - WV,3,White,54,116,5403
+249553k,2022,Carol,D.,Miller,Carol Miller,Republican,Congress,U.S. Representative,West Virginia - WV,3,White,54,117,5403
+249553k,2021,Carol,D.,Miller,Carol Miller,Republican,Congress,U.S. Representative,West Virginia - WV,3,White,54,117,5403
+249553k,2020,Carol,D.,Miller,Carol Miller,Republican,Congress,U.S. Representative,West Virginia - WV,3,White,54,116,5403
+249553k,2023,Carol,D.,Miller,Carol Miller,Republican,Congress,U.S. Representative,West Virginia - WV,1,White,54,118,5401
+199871k,2018,Gwen,S.,Moore,Gwen Moore,Democrat,Congress,U.S. Representative,Wisconsin - WI,4,Black,55,115,5504
+199871k,2021,Gwen,S.,Moore,Gwen Moore,Democrat,Congress,U.S. Representative,Wisconsin - WI,4,Black,55,117,5504
+199871k,2017,Gwen,S.,Moore,Gwen Moore,Democrat,Congress,U.S. Representative,Wisconsin - WI,4,Black,55,115,5504
+199871k,2020,Gwen,S.,Moore,Gwen Moore,Democrat,Congress,U.S. Representative,Wisconsin - WI,4,Black,55,116,5504
+199871k,2019,Gwen,S.,Moore,Gwen Moore,Democrat,Congress,U.S. Representative,Wisconsin - WI,4,Black,55,116,5504
+199871k,2022,Gwen,S.,Moore,Gwen Moore,Democrat,Congress,U.S. Representative,Wisconsin - WI,4,Black,55,117,5504
+199871k,2023,Gwen,S.,Moore,Gwen Moore,Democrat,Congress,U.S. Representative,Wisconsin - WI,4,Black,55,118,5504
+464230k,2019,Liz,L.,Cheney,Liz Cheney,Republican,Congress,U.S. Representative,Wyoming - WY,0,White,56,116,5600
+464230k,2022,Liz,L.,Cheney,Liz Cheney,Republican,Congress,U.S. Representative,Wyoming - WY,0,White,56,117,5600
+464230k,2018,Liz,L.,Cheney,Liz Cheney,Republican,Congress,U.S. Representative,Wyoming - WY,0,White,56,115,5600
+464230k,2021,Liz,L.,Cheney,Liz Cheney,Republican,Congress,U.S. Representative,Wyoming - WY,0,White,56,117,5600
+464230k,2017,Liz,L.,Cheney,Liz Cheney,Republican,Congress,U.S. Representative,Wyoming - WY,0,White,56,115,5600
+464230k,2020,Liz,L.,Cheney,Liz Cheney,Republican,Congress,U.S. Representative,Wyoming - WY,0,White,56,116,5600
+644129k,2023,Harriet,M.,Hageman,Harriet Hageman,Republican,Congress,U.S. Representative,Wyoming - WY,0,White,56,118,5600
